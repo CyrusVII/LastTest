@@ -1,0 +1,914 @@
+[+] Containers:
+ |- [+] Container: /Game/Personal/TestMap/FirstPersonMap
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:00D312BA40A63D4156B2DDA2932361AF BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C1605336417D701_1325144313 Label:Cube3 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:034AA9754ED68AD99FC89298CA78EF92 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1703559296 Label:SM_structures_pillar_14 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:044A896A4FE5AEE54F3AA986115DCAED BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1374470278 Label:modular_pipes_Pipe_71 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:048A3A6F4B5C3AEF4F1902BA2BE90728 BaseClass:/Game/Personal/Blueprint_Mattia/BP_Switches/BP_PhysicCube.BP_PhysicCube_C NativeClass:/Script/Engine.Actor Name:BP_PhysicCubeChild1_C_UAID_047C1605336481D301_1956965682 Label:BP_PhysicCubeChild5 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:052BA001433CEC31A0A84999130DC9B0 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1335490269 Label:modular_pipes_Pipe_69 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:05C51F3544BA4237CEAE72AB81B9F836 BaseClass: NativeClass:/Script/LevelSequence.LevelSequenceActor Name:LevelSequenceActor_UAID_047C1610DC8757B701_1727560723 Label:CR_FirstPerson_Take2 SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:05CBCF034E3DC28D87822C84E2B652D8 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646DD101_1497483053 Label:SM_structures_pillar_2 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:092256E54097C454CA41BE8CF9CEC042 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C16053364C6C001_1953037762 Label:SM_ChiVita SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:09800E874DFF17F69906049401F90A6C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533641BD701_1902331968 Label:SM_structures_pillar_30 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:0B64C12741EDA7562FF29592FB013F46 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1703561298 Label:SM_metal_structures_pillar_9 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:0BA81E684908BC869B1CEEABBFA4978C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C1610DC877BB301_1495817837 Label:SM_Cube14 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderGuid:D00C3F324D055BED943FA6B0235C7FA2
+ |   |   |- Guid:0DD317C4499A8646A35D8FBB5195DF8D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1374470279 Label:modular_pipes_blocker4 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:0EE2260A418C30D3BC48F18556E85948 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C1610DC8746B301_1283088504 Label:SM_Cube7 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderGuid:6C02BB504B69D1F3D7A624B130C18E5B
+ |   |   |- Guid:10C986B744708BC880CADA9C726544B5 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646DD101_1682569064 Label:SM_structures_pillar_7 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:127FE5F547FB22D539E520908AB27BCF BaseClass:/Game/Personal/Blueprint_Mattia/BP_Switches/BP_Button.BP_Button_C NativeClass:/Script/Engine.Actor Name:BPC_Button_C_UAID_047C160533646ED101_1768292299 Label:BPC_Button3 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:130E778A444154A833F3C9ADBF304B84 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_41 Label:SM_Ramp4 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderGuid:D00C3F324D055BED943FA6B0235C7FA2
+ |   |   |- Guid:139419F244F9B5A7549100979ACFFC11 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1568647287 Label:modular_pipes_Pipe_72 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:14E6B0144AFB73BE4C78E3A9EF814B22 BaseClass:/Game/Personal/Blueprint_Mattia/BP_CubeWall.BP_CubeWall_C NativeClass:/Script/Engine.Actor Name:BP_CubeWall_C_UAID_047C160533646DD101_1434257048 Label:BP_CubeWall8 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:180271B44E5D521DE31D43BCA4DB53D6 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646DD101_1688050069 Label:SM_metal_structures_pillar_6 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:1BD3F51C421C8384C9052BB34B0B73D1 BaseClass:/Game/Personal/Blueprint_Mattia/BP_Switches/BP_Numpad.BP_Numpad_C NativeClass:/Script/Engine.Actor Name:BP_Numpad_C_UAID_047C1605336433D401_1697539011 Label:BP_Numpad SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=263.974 Y=7814.425 Z=68.508), Max=(X=274.595 Y=7847.515 Z=113.508) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:2058CECC47F5D3E3E1246A9115F22508 BaseClass:/Game/Personal/Blueprint_Mattia/BP_Switches/BP_Button.BP_Button_C NativeClass:/Script/Engine.Actor Name:BPC_Button_C_UAID_047C160533646ED101_1674554290 Label:BPC_Button2 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:21336E3B4627BBECA9CDEBB59A7CE18F BaseClass:/Game/Personal/Blueprint_Mattia/BP_CubeWall.BP_CubeWall_C NativeClass:/Script/Engine.Actor Name:BP_CubeWall_C_UAID_047C160533646FD101_1147818497 Label:BP_CubeWall12 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:218FCCBF4B423CFE0211FA9EEBF7D740 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C1610DC87DDB501_1757575205 Label:SM_Cube3 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderGuid:6C02BB504B69D1F3D7A624B130C18E5B
+ |   |   |- Guid:223F0DEA4CAEEA0D2173C08CD28CC3F8 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C1610DC877BB301_1495818838 Label:SM_QuarterCylinder3 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderGuid:D00C3F324D055BED943FA6B0235C7FA2
+ |   |   |- Guid:269A76EC4851487646E808BABCC6E19F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1272710263 Label:modular_pipes_Pipe_58 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:26D267C3467E475F8E645FB848D64F7B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1335487267 Label:modular_pipes_Pipe_59 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:2958995446DC2B30B138BDB45D241A76 BaseClass:/Game/Personal/Blueprint_Mattia/BP_Switches/BP_CubeRespawnButton.BP_CubeRespawnButton_C NativeClass:/Script/Engine.Actor Name:BP_CubeRespawnButton_C_UAID_047C1605336472D601_1781470223 Label:BP_CubeRespawnButton7 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:2995E0BF409A2C6CD99201B253FDF0FA BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1865622305 Label:SM_structures_pillar_17 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:2A7487744636E0B6FE2A4BB4E8F09358 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C1610DC877BB301_1528733841 Label:SM_Cube16 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderGuid:D00C3F324D055BED943FA6B0235C7FA2
+ |   |   |- Guid:2B7D27934508B2AF0808139F7188BBB8 BaseClass:/Game/Personal/Blueprint_Mattia/BP_Gates/BPC_MetalDoor.BPC_MetalDoor_C NativeClass:/Script/Engine.Actor Name:BPC_MetalDoor_C_UAID_047C160533646ED101_1689658291 Label:BPC_MetalDoor3 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:2C160763428C7E92E30B68AB3E02915F BaseClass:/Game/Personal/Blueprint_Mattia/BP_ColorChanger.BP_ColorChanger_C NativeClass:/Script/Engine.Actor Name:BP_ColorChanger_C_UAID_047C16053364FCD301_1580549328 Label:BP_ColorChanger7 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:2C25DFA74F7FC8A8EE2AE39EBC21EE08 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646DD101_1688049068 Label:SM_structures_pillar_9 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:2D613ABF43FF7EBFD0BAEEA583CA7735 BaseClass: NativeClass:/Script/PCG.PCGWorldActor Name:PCGWorldActor_UAID_047C1610DC8750C101_2014555048 Label:PCGWorldActor SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:2F093720436536C1E0ACC4995EE08DA7 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646FD101_1147819498 Label:SM_structures_pillar_22 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:355A6CF84DB0197601AD25984A5B6162 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_047C1605336417D701_1397980316 Label:AB_Dummy4 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:36394EED4A57AEA843AD9393B299F958 BaseClass:/Game/Personal/Blueprint_Mattia/BP_Switches/BP_SteelPressurePlate.BP_SteelPressurePlate_C NativeClass:/Script/Engine.Actor Name:BP_SteelPressurePlate_C_UAID_047C1605336457D301_2147070287 Label:BP_SteelPressurePlate SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:3730438B44ED3AC4479E7E839E06FA16 BaseClass:/Game/Personal/Blueprint_Mattia/BP_Switches/BP_PhysicCube.BP_PhysicCube_C NativeClass:/Script/Engine.Actor Name:BP_PhysicCubeChild1_C_UAID_047C160533640FD701_1440171857 Label:BP_PhysicCubeChild10 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:374B975C4C269409A796C6BF6D000994 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_047C1605336417D701_1396916315 Label:AB_Dummy3 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:3E34C66D4ED282E204ED60B87CDCEB4B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C1605336469D601_1191157652 Label:TestCube3 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:3EDFC2064E12705DA6A1ECB67E3D7266 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_047C1605336467D601_2024109297 Label:AB_Dummy SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:3F4D015E4B0807E3FD99A78A2D920D8C BaseClass: NativeClass:/Script/NavigationSystem.RecastNavMesh Name:RecastNavMesh_UAID_047C1610DC8713B601-Default Label:RecastNavMesh-Default SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:3FE534764519DFCB5F7790BA4632AB68 BaseClass:/Game/Personal/Blueprint_Mattia/BP_Gates/BPC_MetalDoor.BPC_MetalDoor_C NativeClass:/Script/Engine.Actor Name:BPC_MetalDoor_C_UAID_047C160533646ED101_2028745316 Label:BPC_MetalDoor7 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:41F6F33349AA6887A5A272834AD64522 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C1610DC870AB601_1178002111 Label:Cube SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:438F20FF479C74B59E28DA8B9F429F6B BaseClass:/Game/Personal/Blueprint_Mattia/BP_CubeWall.BP_CubeWall_C NativeClass:/Script/Engine.Actor Name:BP_CubeWall_C_UAID_047C160533646DD101_1688047066 Label:BP_CubeWall11 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:4392C8404941626B4580568D4A289D71 BaseClass:/Game/Personal/Blueprint_Mattia/OldStuff/BP_ColorChanger.BP_ColorChanger_C NativeClass:/Script/Engine.Actor Name:BP_ColorChanger_C_UAID_047C1610DC87FAB501_1308954297 Label:BP_ColorChanger3 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:4393AA714530EFC2A60909851A6835A8 BaseClass:/Game/Personal/Blueprint_Mattia/BP_CubeWall.BP_CubeWall_C NativeClass:/Script/Engine.Actor Name:BP_CubeWall_C_UAID_047C16053364E3CF01_1226018707 Label:BP_CubeWall6 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:43B8AEE3437610A21FD680B6828C5D2E BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646FD101_1253427508 Label:modular_pipes_Pipe_74 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:44930BE443C692D988841B875B959338 BaseClass:/Game/Personal/Blueprint_Mattia/BP_Switches/BP_CubeRespawnButton.BP_CubeRespawnButton_C NativeClass:/Script/Engine.Actor Name:BP_CubeRespawnButton_C_UAID_047C160533641BD701_1899255965 Label:BP_CubeRespawnButton6 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:44A91285455BBEC747669086DEB3B0FF BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533641BD701_1908289972 Label:SM_structures_pillar_32 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:44C694D644770337B512CF89C20A2CD0 BaseClass:/Game/Personal/Blueprint_Mattia/BP_ColorChanger.BP_ColorChanger_C NativeClass:/Script/Engine.Actor Name:BP_ColorChanger_C_UAID_047C16053364FCD301_1582732329 Label:BP_ColorChanger8 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:45C9EC1146E49A9616B094A92F0C08B7 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1245560262 Label:modular_pipes_blocker SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:4749E41146A5606A410ABAADF0D9AC22 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646FD101_1186001503 Label:SM_structures_pillar_25 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:4943276F414B9BF4D133779E0DD329B2 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1865622306 Label:SM_metal_structures_pillar_10 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:4C478D57418A18F544802FBC0D8B7DBB BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1197277261 Label:modular_pipes_Pipe_65 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:4CC12BA74B31E02089BABF849FB85484 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1956935310 Label:SM_structures_pillar_19 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:4D22326049E17718C320DA9755D69481 BaseClass:/Game/Personal/Ciro/Blueprint/BP_CurrentStaff/BP_DeathZone.BP_DeathZone_C NativeClass:/Script/Engine.Actor Name:BP_DeathZone_C_UAID_047C160533646FD101_2144786515 Label:BP_DeathZone SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:50D65C7F490CD66A1C82A196BA183279 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1163471260 Label:modular_pipes_Pipe_064 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:512873BC4B9C9D38799D82B357901B03 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_2028749319 Label:SM_metal_structures_pillar_12 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:543A92904CA45C0D86AA999AB6EDBADF BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1103240258 Label:modular_pipes_Pipe_068 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:545DF0194AE48E1C56CDA9841EE6C46F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533641BD701_1905485970 Label:SM_structures_pillar_31 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:54FEFEE64E0CA16F75F73FAD7A3D54D2 BaseClass:/Game/Personal/Blueprint_Mattia/BP_Switches/BP_SteelPressurePlate.BP_SteelPressurePlate_C NativeClass:/Script/Engine.Actor Name:BPC_SteelPressurePlate_C_UAID_047C1610DC870ECC01_1652350064 Label:BPC_SteelPressurePlate SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:55F1E16648700697E5BEAB8D653618E4 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1272712264 Label:modular_pipes_Pipe_66 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:587A9FC1431D65A715D60CA32ED67A58 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1956936311 Label:SM_metal_structures_pillar_11 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:58DBC4EB4E3DE06B33F90B805B45ECE1 BaseClass:/Game/Personal/Ciro/Blueprint/BP_MiniStuff/BP_PressColor.BP_PressColor_C NativeClass:/Script/Engine.Actor Name:BP_PressColor_C_UAID_047C160533646ED101_1600955289 Label:BP_PressColor7 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:5D70A4D1445ED92E1C9A488CACF8F29E BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_2028747317 Label:SM_structures_pillar_20 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:5E91DF3541EE8F832430A487739EE3AE BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_047C1610DC873CB901_1927164081 Label:CR_FirstPerson SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:5F4BC6E34745DF284483CA9F56A58E93 BaseClass:/Game/Personal/Blueprint_Mattia/BP_Gates/BPC_MetalDoor.BPC_MetalDoor_C NativeClass:/Script/Engine.Actor Name:BPC_MetalDoor_C_UAID_047C160533646ED101_1865619303 Label:BPC_MetalDoor5 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:6037ADC94390DEBE6D3329B5A977E644 BaseClass:/Game/Personal/Ciro/Blueprint/BP_MiniStuff/BP_PressColor.BP_PressColor_C NativeClass:/Script/Engine.Actor Name:BP_PressColor_C_UAID_047C160533646DD101_1894759077 Label:BP_PressColor3 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:619127A041A264B02409D0972AA58274 BaseClass:/Game/Personal/Ciro/Blueprint/BP_MiniStuff/BP_PressColor.BP_PressColor_C NativeClass:/Script/Engine.Actor Name:BP_PressColor_C_UAID_047C160533646ED101_1477109281 Label:BP_PressColor6 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:61AAB23E482ECEDDEB66F59D0F90C6CC BaseClass:/Game/Personal/Blueprint_Mattia/BP_ColorChanger.BP_ColorChanger_C NativeClass:/Script/Engine.Actor Name:BP_ColorChanger_C_UAID_047C160533645CD301_2099642168 Label:BP_ColorChanger5 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:628A1BAB401F1F0CC575C3A269ECF04B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1689660292 Label:SM_structures_pillar_12 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:63EF3A06492C0F5C88A9D5AFF693BAFA BaseClass:/Game/Personal/Blueprint_Mattia/BP_Switches/BP_PhysicCube.BP_PhysicCube_C NativeClass:/Script/Engine.Actor Name:BP_PhysicCubeChild1_C_UAID_047C1605336481D301_1918040679 Label:BP_PhysicCubeChild2 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:6451CA4F40FC46A8DC66AEBDDDBD7633 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C1610DC877BB301_1495819839 Label:SM_QuarterCylinder4 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderGuid:D00C3F324D055BED943FA6B0235C7FA2
+ |   |   |- Guid:6614823140DA8F2872241E990972231D BaseClass:/Game/Personal/Blueprint_Mattia/BP_Switches/BP_CubeRespawnButton.BP_CubeRespawnButton_C NativeClass:/Script/Engine.Actor Name:BP_CubeRespawnButton_C_UAID_047C160533641BD701_1905483969 Label:BP_CubeRespawnButton10 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:66A9CF814C8BDA89914BB7BF6F00AAD5 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1374469277 Label:modular_pipes_Pipe_70 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:6A4645D44051D521CD25C8AE23CB28FE BaseClass:/Game/Personal/Ciro/Blueprint/BP_MiniStuff/BP_PressColor.BP_PressColor_C NativeClass:/Script/Engine.Actor Name:BP_PressColor_C_UAID_047C160533646DD101_2116428080 Label:BP_PressColor5 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:6A4F743043B959E41D95B9AF2816FD9A BaseClass:/Game/Personal/Blueprint_Mattia/BP_CubeWall.BP_CubeWall_C NativeClass:/Script/Engine.Actor Name:BP_CubeWall_C_UAID_047C160533646DD101_1666977058 Label:BP_CubeWall9 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:6A9DC5DB42C0DED5488FA8B8F1C37682 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C1610DC8746B301_1300344505 Label:SM_Cube17 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderGuid:6C02BB504B69D1F3D7A624B130C18E5B
+ |   |   |- Guid:6BBDACDF4CFC6FD8277647A61523A943 BaseClass:/Game/Personal/Blueprint_Mattia/BP_Gates/BPC_MetalDoor.BPC_MetalDoor_C NativeClass:/Script/Engine.Actor Name:BPC_MetalDoor_C_UAID_047C160533646ED101_1507782283 Label:BPC_MetalDoor2 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:6C90225E49DCEB79512A81AF9BC9FE60 BaseClass:/Game/Personal/Blueprint_Mattia/OldStuff/BP_ColorChanger.BP_ColorChanger_C NativeClass:/Script/Engine.Actor Name:BP_ColorChanger_C_UAID_047C1610DC87FAB501_1306481296 Label:BP_ColorChanger2 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:6ECA17EE4A41220888F0E6930C868D7D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1956935309 Label:SM_structures_pillar_18 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:6F73443C466953B444ACE2B6A94C65AE BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_1 Label:DirectionalLight SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- Guid:6F91A6A94F183BE8B33AF6B49DAA2D76 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C1605336433D401_1687106010 Label:SM_metal_structures_pillar_15 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:7249FC49407E1A8DBF8A0D82746C8B5D BaseClass:/Game/Personal/Blueprint_Mattia/BP_Gates/BPC_MetalDoor.BPC_MetalDoor_C NativeClass:/Script/Engine.Actor Name:BPC_MetalDoor_C_UAID_047C160533646ED101_1703558295 Label:BPC_MetalDoor4 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:74B911B24CB3AE26205C16BD33C26CDE BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646DD101_1666979059 Label:SM_structures_pillar_4 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:7769841A44B3E0B30157A4B31BCDBA56 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646FD101_1186002504 Label:SM_metal_structures_pillar_14 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:7864C5EC46CCB7107601D488932860E9 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C16053364C6C001_1957108763 Label:SM_ChipBase SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:7AA43FF341E188FC76130CB79CC03973 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_047C1605336417D701_1402982317 Label:AB_Dummy5 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:7C7525C745B174E6FB36BFBA84420646 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_0 Label:SkyLight SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- Guid:81A88170488B25AD95852098407E7CEC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1689661294 Label:SM_metal_structures_pillar_8 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:824CA95F4B0D382B2878488566B437CE BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C1605336417D701_1243952312 Label:Sphere2 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:82D002AE45A5656B5D8E348C0FEF1FC0 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646DD101_1666981061 Label:SM_metal_structures_pillar_4 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:843BCFBF471827F1A6811792F7FCA981 BaseClass: NativeClass:/Script/Engine.CameraActor Name:CameraActor_UAID_047C1610DC8757B701_1925878725 Label:CameraActor SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:849F1C324C96AA83045E59B031EAFC54 BaseClass:/Game/Personal/Ciro/Blueprint/BP_MiniStuff/BP_PressColor.BP_PressColor_C NativeClass:/Script/Engine.Actor Name:BP_PressColor_C_UAID_047C160533640FD701_1440164855 Label:BP_PressColor8 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:85DF838F4B7626059AF283B331D01AD7 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C1605336469D601_1221247654 Label:TestCube5 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:8686FAD24CD86C9B83B3089C5F225448 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646DD101_1627016057 Label:SM_metal_structures_pillar_03 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:8703A10A435D22AB9CD0A080C85C0080 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_047C1605336417D701_1387044314 Label:AB_Dummy2 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:8793BD934C97786E547096AF076FF708 BaseClass:/Game/Personal/Blueprint_Mattia/BP_CubeWall.BP_CubeWall_C NativeClass:/Script/Engine.Actor Name:BP_CubeWall_C_UAID_047C16053364E3CF01_1689861709 Label:BP_CubeWall7 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:8A028E4844C5C7A5378D689BC25E2ACC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C1605336433D401_1687103007 Label:SM_structures_pillar_26 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:8AB471EA46889AF52E93498FDA06BC91 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646FD101_1186000502 Label:SM_structures_pillar_24 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:9377BD2C44BD92EE4EC92CA57F13DDFD BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1125993259 Label:modular_pipes_Pipe_057 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:945CCE5E423BC150BF1CBCA17896A9BA BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_0 Label:SM_Cube SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderGuid:6C02BB504B69D1F3D7A624B130C18E5B
+ |   |   |- Guid:947C181041DBB18129461F9ECCB8B039 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1865621304 Label:SM_structures_pillar_16 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:960954504ED6D24F196FB98A84D935BA BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_18 Label:SM_QuarterCylinder2 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderGuid:D00C3F324D055BED943FA6B0235C7FA2
+ |   |   |- Guid:9656F020413AA12B9BCDD587C221067B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_3 Label:SM_Cube2 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderGuid:6C02BB504B69D1F3D7A624B130C18E5B
+ |   |   |- Guid:9B461E004EAD9C73FF5B7999F819290F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_2028748318 Label:SM_structures_pillar_21 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:9F8D9B7D44926346CC1D35A9B85157CF BaseClass:/Game/Personal/Blueprint_Mattia/BP_Switches/BP_PhysicCube.BP_PhysicCube_C NativeClass:/Script/Engine.Actor Name:BP_PhysicCubeChild1_C_UAID_047C1605336481D301_1930068680 Label:BP_PhysicCubeChild3 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:A543C1BB4DD9EC0C7444648601570355 BaseClass:/Game/Personal/Blueprint_Mattia/BP_ColorChanger.BP_ColorChanger_C NativeClass:/Script/Engine.Actor Name:BP_ColorChanger_C_UAID_047C16053364FCD301_1578598327 Label:BP_ColorChanger6 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:A6CC690D4C6151B8999B518FF9F1A1E1 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_10 Label:SM_Cube6 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderGuid:6C02BB504B69D1F3D7A624B130C18E5B
+ |   |   |- Guid:A80C20A142E813038AF3C0892DE17EE1 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646DD101_1682569065 Label:SM_metal_structures_pillar_5 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:AE3EE9984833AF682FCD738871655EE8 BaseClass:/Game/Personal/Blueprint_Mattia/BP_Switches/BP_CubeRespawnButton.BP_CubeRespawnButton_C NativeClass:/Script/Engine.Actor Name:BP_CubeRespawnButton_C_UAID_047C160533641BD701_1902329967 Label:BP_CubeRespawnButton9 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:B0956A524EA348263E6D9595F2FB86CC BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_0 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- Guid:B263B04545D8445DD515AF8B0C6CC83B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1525699284 Label:SM_structures_pillar_10 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:B6D6665641B23A1A4BAF579F87EC23E0 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C1610DC8748B301_2004574865 Label:Sphere SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:B727D9644FBC7C0E9E739295D031A685 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_047C1605336417D701_1404837318 Label:AB_Dummy6 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:B7F8D28C4337E5155592EA9409DEC7A8 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1525700285 Label:SM_structures_pillar_11 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:BB3984F4413906EA9F0A4E8AF0074226 BaseClass:/Game/Personal/Blueprint_Mattia/BP_CheckPoint.BP_CheckPoint_C NativeClass:/Script/Engine.Actor Name:BP_CheckPoint_C_UAID_047C1605336407D201_1197103151 Label:BP_CheckPoint SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2391.392 Y=7657.392 Z=-147.000), Max=(X=2746.000 Y=7886.608 Z=133.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:BBE991324367CF28A1155FB50150E1AE BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1374467276 Label:modular_pipes_Pipe_60 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:BCE7D14B452EF09BC6A22FAD62100604 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_17 Label:SM_QuarterCylinder SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderGuid:D00C3F324D055BED943FA6B0235C7FA2
+ |   |   |- Guid:BD0B86694CA156884F681AA7CD71CAA5 BaseClass:/Game/Personal/Blueprint_Mattia/BP_CubeWall.BP_CubeWall_C NativeClass:/Script/Engine.Actor Name:BP_CubeWall_C_UAID_047C1610DC870AB601_1672654117 Label:BP_CubeWall4 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:BE5469B9479615FF7A7CE4BD16FC1CB7 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_12 Label:SM_Cube8 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderGuid:D00C3F324D055BED943FA6B0235C7FA2
+ |   |   |- Guid:BEB6A2FD49F58339D07D11B095BD454A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533641BD701_1899257966 Label:SM_structures_pillar_29 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:BF8350344B7F14A6F7A411840CBC59B0 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646FD101_1253428509 Label:modular_pipes_blocker5 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:BFC5D34D435607A393E0E4977D0CA5DE BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646FD101_1253424506 Label:modular_pipes_Pipe_61 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C0F69E9B407485DD8F3B96A51DD426AF BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646FD101_1147821500 Label:SM_metal_structures_pillar_13 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C10BE5B7494EDAA3932CFD965CCE93A3 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C1610DC87DDB501_1753404204 Label:SM_Cube18 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderGuid:6C02BB504B69D1F3D7A624B130C18E5B
+ |   |   |- Guid:C18057F7486B618F048E9884C8D86990 BaseClass:/Game/Personal/Blueprint_Mattia/BP_Gates/BPC_MetalDoor.BPC_MetalDoor_C NativeClass:/Script/Engine.Actor Name:BPC_MetalDoor_C_UAID_047C160533646ED101_1956934308 Label:BPC_MetalDoor6 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C199BD8C4D4518F07B0271921FA3765A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C1605336469D601_1226545655 Label:TestCube6 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C4631977430E73DE92D172A569041A01 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646FD101_1147820499 Label:SM_structures_pillar_23 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C4AC8B674E7F29A25352AD83F2D073C6 BaseClass:/Game/Personal/Ciro/Blueprint/BP_MiniStuff/BP_PressColor.BP_PressColor_C NativeClass:/Script/Engine.Actor Name:BP_PressColor_C_UAID_047C160533646DD101_1785594073 Label:BP_PressColor SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C5AABDBF4F311F7133970FB494DA6691 BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_0 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=400.000), Max=(X=200.000 Y=200.000 Z=600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C82C55DF4611906DAFA6239B76BA5506 BaseClass:/Game/Personal/Ciro/Blueprint/SplineBP/BP_ProceduralRoom.BP_ProceduralRoom_C NativeClass:/Script/Engine.Actor Name:BP_ProceduralRoom_C_UAID_047C16053364C6C001_1990128765 Label:BP_ProceduralRoom SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C8328E1F47427CBEC242AD8E6AB0B6D8 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C1605336497CD01_1890433246 Label:SM_Cube19 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderGuid:6C02BB504B69D1F3D7A624B130C18E5B
+ |   |   |- Guid:CE38306D43E306B55904518B88E9B185 BaseClass:/Game/Personal/Ciro/Blueprint/BP_MiniStuff/BP_PressColor.BP_PressColor_C NativeClass:/Script/Engine.Actor Name:BP_PressColor_C_UAID_047C160533646DD101_1883852075 Label:BP_PressColor2 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:D3A6D2D649F9354D31280C9D7469ED77 BaseClass:/Game/Personal/Blueprint_Mattia/BP_CubeWall.BP_CubeWall_C NativeClass:/Script/Engine.Actor Name:BP_CubeWall_C_UAID_047C16053364E3CF01_1203224705 Label:BP_CubeWall5 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:D429C75B4F0FD20AC64727A714903633 BaseClass:/Game/Personal/Blueprint_Mattia/BP_Switches/BP_CubeRespawnButton.BP_CubeRespawnButton_C NativeClass:/Script/Engine.Actor Name:BP_CubeRespawnButton_C_UAID_047C1605336472D601_1768790221 Label:BP_CubeRespawnButton5 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:D453127F4BEF57C4863879BCB37933A4 BaseClass:/Game/Personal/Blueprint_Mattia/BP_CubeWall.BP_CubeWall_C NativeClass:/Script/Engine.Actor Name:BP_CubeWall_C_UAID_047C160533646DD101_1682566062 Label:BP_CubeWall10 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:D6D5CC524AEBD96CC48DDCB48839C395 BaseClass:/Game/Personal/Blueprint_Mattia/BP_Switches/BP_PhysicCube.BP_PhysicCube_C NativeClass:/Script/Engine.Actor Name:BP_PhysicCubeChild1_C_UAID_047C1605336481D301_1946214681 Label:BP_PhysicCubeChild4 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:D89CF43B4FD242F122FC91AE905AF35B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1703560297 Label:SM_structures_pillar_15 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:D8E7CE324E602E5566E67F9076FC4A8C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1335490270 Label:modular_pipes_blocker3 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:D92982AD438E53DF1D8447AC80C3AA83 BaseClass: NativeClass:/Script/PCG.PCGWorldActor Name:PCGWorldActor_UAID_047C1605336479BE01_1624835099 Label:PCGWorldActor SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:DA82AE0447BC30B9545D12901E685C7F BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- Guid:DE0F8598423A47717D5F38903478D41C BaseClass:/Game/Personal/Blueprint_Mattia/BP_Switches/BP_PhysicCube.BP_PhysicCube_C NativeClass:/Script/Engine.Actor Name:BP_PhysicCubeChild1_C_UAID_047C160533645CD301_1899795167 Label:BP_PhysicCubeChild1 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:DF0372B9470C9A198D62AF86B227786C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1335489268 Label:modular_pipes_Pipe_68 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:E07A1E1049491C656227B0BE07BCC694 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533641BD701_1868942963 Label:SM_structures_pillar_28 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:E11BC0F845F62209A65A6F80A14E04F6 BaseClass:/Game/Personal/Blueprint_Mattia/OldStuff/BP_ColorChanger.BP_ColorChanger_C NativeClass:/Script/Engine.Actor Name:BP_ColorChanger_C_UAID_047C1610DC87FAB501_1303372295 Label:BP_ColorChanger SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:E2B5110049FFE552F6CFEDAE4F316DB4 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646DD101_1688049067 Label:SM_structures_pillar_8 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:E36F03E348583CDFADE8B4AA6F80766F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1689661293 Label:SM_structures_pillar_13 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:E4AFEB6146B2DA285B10F1AD36A5B648 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646FD101_1253426507 Label:modular_pipes_Pipe_73 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:E524CE684ABB002456DC499B28B8CCCB BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1272712265 Label:modular_pipes_Pipe_67 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:E618A5DE4016553A75FDCCB57BEC8033 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646FD101_1263816510 Label:modular_pipes_blocker6 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:E709A67F4D12AE78FD211BB6FF922BD1 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C1605336468D601_1362174474 Label:TestCube SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:E7420475489363331E39F2A398BC5A82 BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_0 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- Guid:E8C45E0B489AB2ACADC0BF8FDD99925C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C1610DC877DB301_1074967199 Label:SM_Cube4 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderGuid:6C02BB504B69D1F3D7A624B130C18E5B
+ |   |   |- Guid:EBB248E2459231250B7A3A8867354138 BaseClass:/Game/Personal/Ciro/Blueprint/BP_MiniStuff/BP_PressColor.BP_PressColor_C NativeClass:/Script/Engine.Actor Name:BP_PressColor_C_UAID_047C160533646DD101_1900046079 Label:BP_PressColor4 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:EBBF7E0D4FA6FCD27FB8D789BDBC4DC7 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_19 Label:SM_Cube12 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderGuid:D00C3F324D055BED943FA6B0235C7FA2
+ |   |   |- Guid:EBD3B6E04055D5E04E07A5BE3B2AB58C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1545490286 Label:SM_metal_structures_pillar_7 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:ECF0D45D4EE69CAAD81B6EA489A8F273 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C1610DC877BB301_1495819840 Label:SM_Cube15 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderGuid:D00C3F324D055BED943FA6B0235C7FA2
+ |   |   |- Guid:EE0C53694F4347AB814F79A139BE945D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C1605336433D401_1687105009 Label:SM_structures_pillar_27 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:F2253E324143F5CEF98E58B59C6CB38C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646DD101_1682568063 Label:SM_structures_pillar_6 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:F27AA79F4E89331518A94F97D2AF73E0 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C1605336469D601_1199490653 Label:TestCube4 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:F52B656C4EA603A3F01297BED47326FA BaseClass:/Game/Personal/Blueprint_Mattia/BP_Gates/BPC_MetalDoor.BPC_MetalDoor_C NativeClass:/Script/Engine.Actor Name:BPC_MetalDoor_C_UAID_047C1605336433D401_1687104008 Label:BPC_MetalDoor8 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:F6D2AE954C2C6413AB3341916E4A5202 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533647BBE01_1251029457 Label:Cube SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:F71033F64A9CA36F9CA261B001ACE968 BaseClass:/Game/Personal/Blueprint_Mattia/BP_Switches/BP_SteelPressurePlate.BP_SteelPressurePlate_C NativeClass:/Script/Engine.Actor Name:BPC_SteelPressurePlate_C_UAID_047C160533646DD101_2137114081 Label:BPC_SteelPressurePlate2 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:F77A2CE946F4CE3EF0901485097C9499 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646DD101_1666980060 Label:SM_structures_pillar_5 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:FA3DE23441409DF8BA3277B65A52F375 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1272713266 Label:modular_pipes_blocker2 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:FD188D2B4FE0B87A7A89C486B92E5F7A BaseClass:/Game/Personal/Blueprint_Mattia/BP_Switches/BP_CubeRespawnButton.BP_CubeRespawnButton_C NativeClass:/Script/Engine.Actor Name:BP_CubeRespawnButton_C_UAID_047C160533641BD701_1908287971 Label:BP_CubeRespawnButton11 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:FE37FB1B4BF821FEF3C6B8A2D86D21AB BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_0 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- Guid:FF58EDE84665A21212EACBBCB9C9475C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646DD101_1506328054 Label:SM_structures_pillar_3 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:00D312BA40A63D4156B2DDA2932361AF BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C1605336417D701_1325144313 Label:Cube3 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:034AA9754ED68AD99FC89298CA78EF92 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1703559296 Label:SM_structures_pillar_14 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:044A896A4FE5AEE54F3AA986115DCAED BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1374470278 Label:modular_pipes_Pipe_71 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:048A3A6F4B5C3AEF4F1902BA2BE90728 BaseClass:/Game/Personal/Blueprint_Mattia/BP_Switches/BP_PhysicCube.BP_PhysicCube_C NativeClass:/Script/Engine.Actor Name:BP_PhysicCubeChild1_C_UAID_047C1605336481D301_1956965682 Label:BP_PhysicCubeChild5 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |   |- Guid:6614823140DA8F2872241E990972231D BaseClass:/Game/Personal/Blueprint_Mattia/BP_Switches/BP_CubeRespawnButton.BP_CubeRespawnButton_C NativeClass:/Script/Engine.Actor Name:BP_CubeRespawnButton_C_UAID_047C160533641BD701_1905483969 Label:BP_CubeRespawnButton10 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:052BA001433CEC31A0A84999130DC9B0 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1335490269 Label:modular_pipes_Pipe_69 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:05C51F3544BA4237CEAE72AB81B9F836 BaseClass: NativeClass:/Script/LevelSequence.LevelSequenceActor Name:LevelSequenceActor_UAID_047C1610DC8757B701_1727560723 Label:CR_FirstPerson_Take2 SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:05CBCF034E3DC28D87822C84E2B652D8 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646DD101_1497483053 Label:SM_structures_pillar_2 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:092256E54097C454CA41BE8CF9CEC042 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C16053364C6C001_1953037762 Label:SM_ChiVita SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:09800E874DFF17F69906049401F90A6C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533641BD701_1902331968 Label:SM_structures_pillar_30 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:0B64C12741EDA7562FF29592FB013F46 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1703561298 Label:SM_metal_structures_pillar_9 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:0BA81E684908BC869B1CEEABBFA4978C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C1610DC877BB301_1495817837 Label:SM_Cube14 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderGuid:D00C3F324D055BED943FA6B0235C7FA2
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:0DD317C4499A8646A35D8FBB5195DF8D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1374470279 Label:modular_pipes_blocker4 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:0EE2260A418C30D3BC48F18556E85948 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C1610DC8746B301_1283088504 Label:SM_Cube7 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderGuid:6C02BB504B69D1F3D7A624B130C18E5B
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:10C986B744708BC880CADA9C726544B5 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646DD101_1682569064 Label:SM_structures_pillar_7 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:127FE5F547FB22D539E520908AB27BCF BaseClass:/Game/Personal/Blueprint_Mattia/BP_Switches/BP_Button.BP_Button_C NativeClass:/Script/Engine.Actor Name:BPC_Button_C_UAID_047C160533646ED101_1768292299 Label:BPC_Button3 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 15]
+ |   |   |   |- Guid:130E778A444154A833F3C9ADBF304B84 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_41 Label:SM_Ramp4 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderGuid:D00C3F324D055BED943FA6B0235C7FA2
+ |   |   |- [+] [ 16]
+ |   |   |   |- Guid:139419F244F9B5A7549100979ACFFC11 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1568647287 Label:modular_pipes_Pipe_72 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 17]
+ |   |   |   |- Guid:14E6B0144AFB73BE4C78E3A9EF814B22 BaseClass:/Game/Personal/Blueprint_Mattia/BP_CubeWall.BP_CubeWall_C NativeClass:/Script/Engine.Actor Name:BP_CubeWall_C_UAID_047C160533646DD101_1434257048 Label:BP_CubeWall8 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 18]
+ |   |   |   |- Guid:180271B44E5D521DE31D43BCA4DB53D6 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646DD101_1688050069 Label:SM_metal_structures_pillar_6 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 19]
+ |   |   |   |- Guid:1BD3F51C421C8384C9052BB34B0B73D1 BaseClass:/Game/Personal/Blueprint_Mattia/BP_Switches/BP_Numpad.BP_Numpad_C NativeClass:/Script/Engine.Actor Name:BP_Numpad_C_UAID_047C1605336433D401_1697539011 Label:BP_Numpad SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=263.974 Y=7814.425 Z=68.508), Max=(X=274.595 Y=7847.515 Z=113.508) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 20]
+ |   |   |   |- Guid:2058CECC47F5D3E3E1246A9115F22508 BaseClass:/Game/Personal/Blueprint_Mattia/BP_Switches/BP_Button.BP_Button_C NativeClass:/Script/Engine.Actor Name:BPC_Button_C_UAID_047C160533646ED101_1674554290 Label:BPC_Button2 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 21]
+ |   |   |   |- Guid:21336E3B4627BBECA9CDEBB59A7CE18F BaseClass:/Game/Personal/Blueprint_Mattia/BP_CubeWall.BP_CubeWall_C NativeClass:/Script/Engine.Actor Name:BP_CubeWall_C_UAID_047C160533646FD101_1147818497 Label:BP_CubeWall12 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 22]
+ |   |   |   |- Guid:218FCCBF4B423CFE0211FA9EEBF7D740 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C1610DC87DDB501_1757575205 Label:SM_Cube3 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderGuid:6C02BB504B69D1F3D7A624B130C18E5B
+ |   |   |- [+] [ 23]
+ |   |   |   |- Guid:223F0DEA4CAEEA0D2173C08CD28CC3F8 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C1610DC877BB301_1495818838 Label:SM_QuarterCylinder3 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderGuid:D00C3F324D055BED943FA6B0235C7FA2
+ |   |   |- [+] [ 24]
+ |   |   |   |- Guid:269A76EC4851487646E808BABCC6E19F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1272710263 Label:modular_pipes_Pipe_58 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 25]
+ |   |   |   |- Guid:26D267C3467E475F8E645FB848D64F7B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1335487267 Label:modular_pipes_Pipe_59 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 26]
+ |   |   |   |- Guid:2958995446DC2B30B138BDB45D241A76 BaseClass:/Game/Personal/Blueprint_Mattia/BP_Switches/BP_CubeRespawnButton.BP_CubeRespawnButton_C NativeClass:/Script/Engine.Actor Name:BP_CubeRespawnButton_C_UAID_047C1605336472D601_1781470223 Label:BP_CubeRespawnButton7 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |   |- Guid:DE0F8598423A47717D5F38903478D41C BaseClass:/Game/Personal/Blueprint_Mattia/BP_Switches/BP_PhysicCube.BP_PhysicCube_C NativeClass:/Script/Engine.Actor Name:BP_PhysicCubeChild1_C_UAID_047C160533645CD301_1899795167 Label:BP_PhysicCubeChild1 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 27]
+ |   |   |   |- Guid:2995E0BF409A2C6CD99201B253FDF0FA BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1865622305 Label:SM_structures_pillar_17 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 28]
+ |   |   |   |- Guid:2A7487744636E0B6FE2A4BB4E8F09358 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C1610DC877BB301_1528733841 Label:SM_Cube16 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderGuid:D00C3F324D055BED943FA6B0235C7FA2
+ |   |   |- [+] [ 29]
+ |   |   |   |- Guid:2B7D27934508B2AF0808139F7188BBB8 BaseClass:/Game/Personal/Blueprint_Mattia/BP_Gates/BPC_MetalDoor.BPC_MetalDoor_C NativeClass:/Script/Engine.Actor Name:BPC_MetalDoor_C_UAID_047C160533646ED101_1689658291 Label:BPC_MetalDoor3 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 30]
+ |   |   |   |- Guid:2C160763428C7E92E30B68AB3E02915F BaseClass:/Game/Personal/Blueprint_Mattia/BP_ColorChanger.BP_ColorChanger_C NativeClass:/Script/Engine.Actor Name:BP_ColorChanger_C_UAID_047C16053364FCD301_1580549328 Label:BP_ColorChanger7 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 31]
+ |   |   |   |- Guid:2C25DFA74F7FC8A8EE2AE39EBC21EE08 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646DD101_1688049068 Label:SM_structures_pillar_9 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 32]
+ |   |   |   |- Guid:2D613ABF43FF7EBFD0BAEEA583CA7735 BaseClass: NativeClass:/Script/PCG.PCGWorldActor Name:PCGWorldActor_UAID_047C1610DC8750C101_2014555048 Label:PCGWorldActor SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 33]
+ |   |   |   |- Guid:2F093720436536C1E0ACC4995EE08DA7 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646FD101_1147819498 Label:SM_structures_pillar_22 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 34]
+ |   |   |   |- Guid:355A6CF84DB0197601AD25984A5B6162 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_047C1605336417D701_1397980316 Label:AB_Dummy4 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 35]
+ |   |   |   |- Guid:36394EED4A57AEA843AD9393B299F958 BaseClass:/Game/Personal/Blueprint_Mattia/BP_Switches/BP_SteelPressurePlate.BP_SteelPressurePlate_C NativeClass:/Script/Engine.Actor Name:BP_SteelPressurePlate_C_UAID_047C1605336457D301_2147070287 Label:BP_SteelPressurePlate SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 36]
+ |   |   |   |- Guid:3730438B44ED3AC4479E7E839E06FA16 BaseClass:/Game/Personal/Blueprint_Mattia/BP_Switches/BP_PhysicCube.BP_PhysicCube_C NativeClass:/Script/Engine.Actor Name:BP_PhysicCubeChild1_C_UAID_047C160533640FD701_1440171857 Label:BP_PhysicCubeChild10 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |   |- Guid:FD188D2B4FE0B87A7A89C486B92E5F7A BaseClass:/Game/Personal/Blueprint_Mattia/BP_Switches/BP_CubeRespawnButton.BP_CubeRespawnButton_C NativeClass:/Script/Engine.Actor Name:BP_CubeRespawnButton_C_UAID_047C160533641BD701_1908287971 Label:BP_CubeRespawnButton11 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 37]
+ |   |   |   |- Guid:374B975C4C269409A796C6BF6D000994 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_047C1605336417D701_1396916315 Label:AB_Dummy3 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 38]
+ |   |   |   |- Guid:3E34C66D4ED282E204ED60B87CDCEB4B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C1605336469D601_1191157652 Label:TestCube3 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 39]
+ |   |   |   |- Guid:3EDFC2064E12705DA6A1ECB67E3D7266 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_047C1605336467D601_2024109297 Label:AB_Dummy SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 40]
+ |   |   |   |- Guid:3F4D015E4B0807E3FD99A78A2D920D8C BaseClass: NativeClass:/Script/NavigationSystem.RecastNavMesh Name:RecastNavMesh_UAID_047C1610DC8713B601-Default Label:RecastNavMesh-Default SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 41]
+ |   |   |   |- Guid:3FE534764519DFCB5F7790BA4632AB68 BaseClass:/Game/Personal/Blueprint_Mattia/BP_Gates/BPC_MetalDoor.BPC_MetalDoor_C NativeClass:/Script/Engine.Actor Name:BPC_MetalDoor_C_UAID_047C160533646ED101_2028745316 Label:BPC_MetalDoor7 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 42]
+ |   |   |   |- Guid:41F6F33349AA6887A5A272834AD64522 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C1610DC870AB601_1178002111 Label:Cube SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 43]
+ |   |   |   |- Guid:438F20FF479C74B59E28DA8B9F429F6B BaseClass:/Game/Personal/Blueprint_Mattia/BP_CubeWall.BP_CubeWall_C NativeClass:/Script/Engine.Actor Name:BP_CubeWall_C_UAID_047C160533646DD101_1688047066 Label:BP_CubeWall11 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 44]
+ |   |   |   |- Guid:4392C8404941626B4580568D4A289D71 BaseClass:/Game/Personal/Blueprint_Mattia/OldStuff/BP_ColorChanger.BP_ColorChanger_C NativeClass:/Script/Engine.Actor Name:BP_ColorChanger_C_UAID_047C1610DC87FAB501_1308954297 Label:BP_ColorChanger3 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 45]
+ |   |   |   |- Guid:4393AA714530EFC2A60909851A6835A8 BaseClass:/Game/Personal/Blueprint_Mattia/BP_CubeWall.BP_CubeWall_C NativeClass:/Script/Engine.Actor Name:BP_CubeWall_C_UAID_047C16053364E3CF01_1226018707 Label:BP_CubeWall6 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 46]
+ |   |   |   |- Guid:43B8AEE3437610A21FD680B6828C5D2E BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646FD101_1253427508 Label:modular_pipes_Pipe_74 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 47]
+ |   |   |   |- Guid:44930BE443C692D988841B875B959338 BaseClass:/Game/Personal/Blueprint_Mattia/BP_Switches/BP_CubeRespawnButton.BP_CubeRespawnButton_C NativeClass:/Script/Engine.Actor Name:BP_CubeRespawnButton_C_UAID_047C160533641BD701_1899255965 Label:BP_CubeRespawnButton6 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |   |- Guid:63EF3A06492C0F5C88A9D5AFF693BAFA BaseClass:/Game/Personal/Blueprint_Mattia/BP_Switches/BP_PhysicCube.BP_PhysicCube_C NativeClass:/Script/Engine.Actor Name:BP_PhysicCubeChild1_C_UAID_047C1605336481D301_1918040679 Label:BP_PhysicCubeChild2 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 48]
+ |   |   |   |- Guid:44A91285455BBEC747669086DEB3B0FF BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533641BD701_1908289972 Label:SM_structures_pillar_32 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 49]
+ |   |   |   |- Guid:44C694D644770337B512CF89C20A2CD0 BaseClass:/Game/Personal/Blueprint_Mattia/BP_ColorChanger.BP_ColorChanger_C NativeClass:/Script/Engine.Actor Name:BP_ColorChanger_C_UAID_047C16053364FCD301_1582732329 Label:BP_ColorChanger8 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 50]
+ |   |   |   |- Guid:45C9EC1146E49A9616B094A92F0C08B7 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1245560262 Label:modular_pipes_blocker SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 51]
+ |   |   |   |- Guid:4749E41146A5606A410ABAADF0D9AC22 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646FD101_1186001503 Label:SM_structures_pillar_25 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 52]
+ |   |   |   |- Guid:4943276F414B9BF4D133779E0DD329B2 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1865622306 Label:SM_metal_structures_pillar_10 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 53]
+ |   |   |   |- Guid:4C478D57418A18F544802FBC0D8B7DBB BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1197277261 Label:modular_pipes_Pipe_65 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 54]
+ |   |   |   |- Guid:4CC12BA74B31E02089BABF849FB85484 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1956935310 Label:SM_structures_pillar_19 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 55]
+ |   |   |   |- Guid:4D22326049E17718C320DA9755D69481 BaseClass:/Game/Personal/Ciro/Blueprint/BP_CurrentStaff/BP_DeathZone.BP_DeathZone_C NativeClass:/Script/Engine.Actor Name:BP_DeathZone_C_UAID_047C160533646FD101_2144786515 Label:BP_DeathZone SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 56]
+ |   |   |   |- Guid:50D65C7F490CD66A1C82A196BA183279 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1163471260 Label:modular_pipes_Pipe_064 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 57]
+ |   |   |   |- Guid:512873BC4B9C9D38799D82B357901B03 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_2028749319 Label:SM_metal_structures_pillar_12 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 58]
+ |   |   |   |- Guid:543A92904CA45C0D86AA999AB6EDBADF BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1103240258 Label:modular_pipes_Pipe_068 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 59]
+ |   |   |   |- Guid:545DF0194AE48E1C56CDA9841EE6C46F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533641BD701_1905485970 Label:SM_structures_pillar_31 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 60]
+ |   |   |   |- Guid:54FEFEE64E0CA16F75F73FAD7A3D54D2 BaseClass:/Game/Personal/Blueprint_Mattia/BP_Switches/BP_SteelPressurePlate.BP_SteelPressurePlate_C NativeClass:/Script/Engine.Actor Name:BPC_SteelPressurePlate_C_UAID_047C1610DC870ECC01_1652350064 Label:BPC_SteelPressurePlate SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 61]
+ |   |   |   |- Guid:55F1E16648700697E5BEAB8D653618E4 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1272712264 Label:modular_pipes_Pipe_66 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 62]
+ |   |   |   |- Guid:587A9FC1431D65A715D60CA32ED67A58 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1956936311 Label:SM_metal_structures_pillar_11 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 63]
+ |   |   |   |- Guid:58DBC4EB4E3DE06B33F90B805B45ECE1 BaseClass:/Game/Personal/Ciro/Blueprint/BP_MiniStuff/BP_PressColor.BP_PressColor_C NativeClass:/Script/Engine.Actor Name:BP_PressColor_C_UAID_047C160533646ED101_1600955289 Label:BP_PressColor7 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 64]
+ |   |   |   |- Guid:5D70A4D1445ED92E1C9A488CACF8F29E BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_2028747317 Label:SM_structures_pillar_20 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 65]
+ |   |   |   |- Guid:5E91DF3541EE8F832430A487739EE3AE BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_047C1610DC873CB901_1927164081 Label:CR_FirstPerson SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 66]
+ |   |   |   |- Guid:5F4BC6E34745DF284483CA9F56A58E93 BaseClass:/Game/Personal/Blueprint_Mattia/BP_Gates/BPC_MetalDoor.BPC_MetalDoor_C NativeClass:/Script/Engine.Actor Name:BPC_MetalDoor_C_UAID_047C160533646ED101_1865619303 Label:BPC_MetalDoor5 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 67]
+ |   |   |   |- Guid:6037ADC94390DEBE6D3329B5A977E644 BaseClass:/Game/Personal/Ciro/Blueprint/BP_MiniStuff/BP_PressColor.BP_PressColor_C NativeClass:/Script/Engine.Actor Name:BP_PressColor_C_UAID_047C160533646DD101_1894759077 Label:BP_PressColor3 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 68]
+ |   |   |   |- Guid:619127A041A264B02409D0972AA58274 BaseClass:/Game/Personal/Ciro/Blueprint/BP_MiniStuff/BP_PressColor.BP_PressColor_C NativeClass:/Script/Engine.Actor Name:BP_PressColor_C_UAID_047C160533646ED101_1477109281 Label:BP_PressColor6 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 69]
+ |   |   |   |- Guid:61AAB23E482ECEDDEB66F59D0F90C6CC BaseClass:/Game/Personal/Blueprint_Mattia/BP_ColorChanger.BP_ColorChanger_C NativeClass:/Script/Engine.Actor Name:BP_ColorChanger_C_UAID_047C160533645CD301_2099642168 Label:BP_ColorChanger5 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 70]
+ |   |   |   |- Guid:628A1BAB401F1F0CC575C3A269ECF04B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1689660292 Label:SM_structures_pillar_12 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 71]
+ |   |   |   |- Guid:6451CA4F40FC46A8DC66AEBDDDBD7633 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C1610DC877BB301_1495819839 Label:SM_QuarterCylinder4 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderGuid:D00C3F324D055BED943FA6B0235C7FA2
+ |   |   |- [+] [ 72]
+ |   |   |   |- Guid:66A9CF814C8BDA89914BB7BF6F00AAD5 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1374469277 Label:modular_pipes_Pipe_70 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 73]
+ |   |   |   |- Guid:6A4645D44051D521CD25C8AE23CB28FE BaseClass:/Game/Personal/Ciro/Blueprint/BP_MiniStuff/BP_PressColor.BP_PressColor_C NativeClass:/Script/Engine.Actor Name:BP_PressColor_C_UAID_047C160533646DD101_2116428080 Label:BP_PressColor5 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 74]
+ |   |   |   |- Guid:6A4F743043B959E41D95B9AF2816FD9A BaseClass:/Game/Personal/Blueprint_Mattia/BP_CubeWall.BP_CubeWall_C NativeClass:/Script/Engine.Actor Name:BP_CubeWall_C_UAID_047C160533646DD101_1666977058 Label:BP_CubeWall9 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 75]
+ |   |   |   |- Guid:6A9DC5DB42C0DED5488FA8B8F1C37682 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C1610DC8746B301_1300344505 Label:SM_Cube17 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderGuid:6C02BB504B69D1F3D7A624B130C18E5B
+ |   |   |- [+] [ 76]
+ |   |   |   |- Guid:6BBDACDF4CFC6FD8277647A61523A943 BaseClass:/Game/Personal/Blueprint_Mattia/BP_Gates/BPC_MetalDoor.BPC_MetalDoor_C NativeClass:/Script/Engine.Actor Name:BPC_MetalDoor_C_UAID_047C160533646ED101_1507782283 Label:BPC_MetalDoor2 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 77]
+ |   |   |   |- Guid:6C90225E49DCEB79512A81AF9BC9FE60 BaseClass:/Game/Personal/Blueprint_Mattia/OldStuff/BP_ColorChanger.BP_ColorChanger_C NativeClass:/Script/Engine.Actor Name:BP_ColorChanger_C_UAID_047C1610DC87FAB501_1306481296 Label:BP_ColorChanger2 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 78]
+ |   |   |   |- Guid:6ECA17EE4A41220888F0E6930C868D7D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1956935309 Label:SM_structures_pillar_18 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 79]
+ |   |   |   |- Guid:6F73443C466953B444ACE2B6A94C65AE BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_1 Label:DirectionalLight SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- [+] [ 80]
+ |   |   |   |- Guid:6F91A6A94F183BE8B33AF6B49DAA2D76 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C1605336433D401_1687106010 Label:SM_metal_structures_pillar_15 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 81]
+ |   |   |   |- Guid:7249FC49407E1A8DBF8A0D82746C8B5D BaseClass:/Game/Personal/Blueprint_Mattia/BP_Gates/BPC_MetalDoor.BPC_MetalDoor_C NativeClass:/Script/Engine.Actor Name:BPC_MetalDoor_C_UAID_047C160533646ED101_1703558295 Label:BPC_MetalDoor4 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 82]
+ |   |   |   |- Guid:74B911B24CB3AE26205C16BD33C26CDE BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646DD101_1666979059 Label:SM_structures_pillar_4 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 83]
+ |   |   |   |- Guid:7769841A44B3E0B30157A4B31BCDBA56 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646FD101_1186002504 Label:SM_metal_structures_pillar_14 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 84]
+ |   |   |   |- Guid:7864C5EC46CCB7107601D488932860E9 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C16053364C6C001_1957108763 Label:SM_ChipBase SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 85]
+ |   |   |   |- Guid:7AA43FF341E188FC76130CB79CC03973 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_047C1605336417D701_1402982317 Label:AB_Dummy5 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 86]
+ |   |   |   |- Guid:7C7525C745B174E6FB36BFBA84420646 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_0 Label:SkyLight SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- [+] [ 87]
+ |   |   |   |- Guid:81A88170488B25AD95852098407E7CEC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1689661294 Label:SM_metal_structures_pillar_8 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 88]
+ |   |   |   |- Guid:824CA95F4B0D382B2878488566B437CE BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C1605336417D701_1243952312 Label:Sphere2 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 89]
+ |   |   |   |- Guid:82D002AE45A5656B5D8E348C0FEF1FC0 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646DD101_1666981061 Label:SM_metal_structures_pillar_4 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 90]
+ |   |   |   |- Guid:843BCFBF471827F1A6811792F7FCA981 BaseClass: NativeClass:/Script/Engine.CameraActor Name:CameraActor_UAID_047C1610DC8757B701_1925878725 Label:CameraActor SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 91]
+ |   |   |   |- Guid:849F1C324C96AA83045E59B031EAFC54 BaseClass:/Game/Personal/Ciro/Blueprint/BP_MiniStuff/BP_PressColor.BP_PressColor_C NativeClass:/Script/Engine.Actor Name:BP_PressColor_C_UAID_047C160533640FD701_1440164855 Label:BP_PressColor8 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 92]
+ |   |   |   |- Guid:85DF838F4B7626059AF283B331D01AD7 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C1605336469D601_1221247654 Label:TestCube5 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 93]
+ |   |   |   |- Guid:8686FAD24CD86C9B83B3089C5F225448 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646DD101_1627016057 Label:SM_metal_structures_pillar_03 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 94]
+ |   |   |   |- Guid:8703A10A435D22AB9CD0A080C85C0080 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_047C1605336417D701_1387044314 Label:AB_Dummy2 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 95]
+ |   |   |   |- Guid:8793BD934C97786E547096AF076FF708 BaseClass:/Game/Personal/Blueprint_Mattia/BP_CubeWall.BP_CubeWall_C NativeClass:/Script/Engine.Actor Name:BP_CubeWall_C_UAID_047C16053364E3CF01_1689861709 Label:BP_CubeWall7 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 96]
+ |   |   |   |- Guid:8A028E4844C5C7A5378D689BC25E2ACC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C1605336433D401_1687103007 Label:SM_structures_pillar_26 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 97]
+ |   |   |   |- Guid:8AB471EA46889AF52E93498FDA06BC91 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646FD101_1186000502 Label:SM_structures_pillar_24 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 98]
+ |   |   |   |- Guid:9377BD2C44BD92EE4EC92CA57F13DDFD BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1125993259 Label:modular_pipes_Pipe_057 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 99]
+ |   |   |   |- Guid:945CCE5E423BC150BF1CBCA17896A9BA BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_0 Label:SM_Cube SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderGuid:6C02BB504B69D1F3D7A624B130C18E5B
+ |   |   |- [+] [100]
+ |   |   |   |- Guid:947C181041DBB18129461F9ECCB8B039 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1865621304 Label:SM_structures_pillar_16 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [101]
+ |   |   |   |- Guid:960954504ED6D24F196FB98A84D935BA BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_18 Label:SM_QuarterCylinder2 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderGuid:D00C3F324D055BED943FA6B0235C7FA2
+ |   |   |- [+] [102]
+ |   |   |   |- Guid:9656F020413AA12B9BCDD587C221067B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_3 Label:SM_Cube2 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderGuid:6C02BB504B69D1F3D7A624B130C18E5B
+ |   |   |- [+] [103]
+ |   |   |   |- Guid:9B461E004EAD9C73FF5B7999F819290F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_2028748318 Label:SM_structures_pillar_21 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [104]
+ |   |   |   |- Guid:9F8D9B7D44926346CC1D35A9B85157CF BaseClass:/Game/Personal/Blueprint_Mattia/BP_Switches/BP_PhysicCube.BP_PhysicCube_C NativeClass:/Script/Engine.Actor Name:BP_PhysicCubeChild1_C_UAID_047C1605336481D301_1930068680 Label:BP_PhysicCubeChild3 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |   |- Guid:D429C75B4F0FD20AC64727A714903633 BaseClass:/Game/Personal/Blueprint_Mattia/BP_Switches/BP_CubeRespawnButton.BP_CubeRespawnButton_C NativeClass:/Script/Engine.Actor Name:BP_CubeRespawnButton_C_UAID_047C1605336472D601_1768790221 Label:BP_CubeRespawnButton5 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [105]
+ |   |   |   |- Guid:A543C1BB4DD9EC0C7444648601570355 BaseClass:/Game/Personal/Blueprint_Mattia/BP_ColorChanger.BP_ColorChanger_C NativeClass:/Script/Engine.Actor Name:BP_ColorChanger_C_UAID_047C16053364FCD301_1578598327 Label:BP_ColorChanger6 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [106]
+ |   |   |   |- Guid:A6CC690D4C6151B8999B518FF9F1A1E1 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_10 Label:SM_Cube6 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderGuid:6C02BB504B69D1F3D7A624B130C18E5B
+ |   |   |- [+] [107]
+ |   |   |   |- Guid:A80C20A142E813038AF3C0892DE17EE1 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646DD101_1682569065 Label:SM_metal_structures_pillar_5 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [108]
+ |   |   |   |- Guid:AE3EE9984833AF682FCD738871655EE8 BaseClass:/Game/Personal/Blueprint_Mattia/BP_Switches/BP_CubeRespawnButton.BP_CubeRespawnButton_C NativeClass:/Script/Engine.Actor Name:BP_CubeRespawnButton_C_UAID_047C160533641BD701_1902329967 Label:BP_CubeRespawnButton9 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |   |- Guid:D6D5CC524AEBD96CC48DDCB48839C395 BaseClass:/Game/Personal/Blueprint_Mattia/BP_Switches/BP_PhysicCube.BP_PhysicCube_C NativeClass:/Script/Engine.Actor Name:BP_PhysicCubeChild1_C_UAID_047C1605336481D301_1946214681 Label:BP_PhysicCubeChild4 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [109]
+ |   |   |   |- Guid:B0956A524EA348263E6D9595F2FB86CC BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_0 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- [+] [110]
+ |   |   |   |- Guid:B263B04545D8445DD515AF8B0C6CC83B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1525699284 Label:SM_structures_pillar_10 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [111]
+ |   |   |   |- Guid:B6D6665641B23A1A4BAF579F87EC23E0 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C1610DC8748B301_2004574865 Label:Sphere SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [112]
+ |   |   |   |- Guid:B727D9644FBC7C0E9E739295D031A685 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_047C1605336417D701_1404837318 Label:AB_Dummy6 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [113]
+ |   |   |   |- Guid:B7F8D28C4337E5155592EA9409DEC7A8 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1525700285 Label:SM_structures_pillar_11 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [114]
+ |   |   |   |- Guid:BB3984F4413906EA9F0A4E8AF0074226 BaseClass:/Game/Personal/Blueprint_Mattia/BP_CheckPoint.BP_CheckPoint_C NativeClass:/Script/Engine.Actor Name:BP_CheckPoint_C_UAID_047C1605336407D201_1197103151 Label:BP_CheckPoint SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2391.392 Y=7657.392 Z=-147.000), Max=(X=2746.000 Y=7886.608 Z=133.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [115]
+ |   |   |   |- Guid:BBE991324367CF28A1155FB50150E1AE BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1374467276 Label:modular_pipes_Pipe_60 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [116]
+ |   |   |   |- Guid:BCE7D14B452EF09BC6A22FAD62100604 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_17 Label:SM_QuarterCylinder SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderGuid:D00C3F324D055BED943FA6B0235C7FA2
+ |   |   |- [+] [117]
+ |   |   |   |- Guid:BD0B86694CA156884F681AA7CD71CAA5 BaseClass:/Game/Personal/Blueprint_Mattia/BP_CubeWall.BP_CubeWall_C NativeClass:/Script/Engine.Actor Name:BP_CubeWall_C_UAID_047C1610DC870AB601_1672654117 Label:BP_CubeWall4 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [118]
+ |   |   |   |- Guid:BE5469B9479615FF7A7CE4BD16FC1CB7 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_12 Label:SM_Cube8 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderGuid:D00C3F324D055BED943FA6B0235C7FA2
+ |   |   |- [+] [119]
+ |   |   |   |- Guid:BEB6A2FD49F58339D07D11B095BD454A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533641BD701_1899257966 Label:SM_structures_pillar_29 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [120]
+ |   |   |   |- Guid:BF8350344B7F14A6F7A411840CBC59B0 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646FD101_1253428509 Label:modular_pipes_blocker5 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [121]
+ |   |   |   |- Guid:BFC5D34D435607A393E0E4977D0CA5DE BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646FD101_1253424506 Label:modular_pipes_Pipe_61 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [122]
+ |   |   |   |- Guid:C0F69E9B407485DD8F3B96A51DD426AF BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646FD101_1147821500 Label:SM_metal_structures_pillar_13 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [123]
+ |   |   |   |- Guid:C10BE5B7494EDAA3932CFD965CCE93A3 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C1610DC87DDB501_1753404204 Label:SM_Cube18 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderGuid:6C02BB504B69D1F3D7A624B130C18E5B
+ |   |   |- [+] [124]
+ |   |   |   |- Guid:C18057F7486B618F048E9884C8D86990 BaseClass:/Game/Personal/Blueprint_Mattia/BP_Gates/BPC_MetalDoor.BPC_MetalDoor_C NativeClass:/Script/Engine.Actor Name:BPC_MetalDoor_C_UAID_047C160533646ED101_1956934308 Label:BPC_MetalDoor6 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [125]
+ |   |   |   |- Guid:C199BD8C4D4518F07B0271921FA3765A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C1605336469D601_1226545655 Label:TestCube6 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [126]
+ |   |   |   |- Guid:C4631977430E73DE92D172A569041A01 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646FD101_1147820499 Label:SM_structures_pillar_23 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [127]
+ |   |   |   |- Guid:C4AC8B674E7F29A25352AD83F2D073C6 BaseClass:/Game/Personal/Ciro/Blueprint/BP_MiniStuff/BP_PressColor.BP_PressColor_C NativeClass:/Script/Engine.Actor Name:BP_PressColor_C_UAID_047C160533646DD101_1785594073 Label:BP_PressColor SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [128]
+ |   |   |   |- Guid:C5AABDBF4F311F7133970FB494DA6691 BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_0 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=400.000), Max=(X=200.000 Y=200.000 Z=600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [129]
+ |   |   |   |- Guid:C82C55DF4611906DAFA6239B76BA5506 BaseClass:/Game/Personal/Ciro/Blueprint/SplineBP/BP_ProceduralRoom.BP_ProceduralRoom_C NativeClass:/Script/Engine.Actor Name:BP_ProceduralRoom_C_UAID_047C16053364C6C001_1990128765 Label:BP_ProceduralRoom SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [130]
+ |   |   |   |- Guid:C8328E1F47427CBEC242AD8E6AB0B6D8 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C1605336497CD01_1890433246 Label:SM_Cube19 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderGuid:6C02BB504B69D1F3D7A624B130C18E5B
+ |   |   |- [+] [131]
+ |   |   |   |- Guid:CE38306D43E306B55904518B88E9B185 BaseClass:/Game/Personal/Ciro/Blueprint/BP_MiniStuff/BP_PressColor.BP_PressColor_C NativeClass:/Script/Engine.Actor Name:BP_PressColor_C_UAID_047C160533646DD101_1883852075 Label:BP_PressColor2 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [132]
+ |   |   |   |- Guid:D3A6D2D649F9354D31280C9D7469ED77 BaseClass:/Game/Personal/Blueprint_Mattia/BP_CubeWall.BP_CubeWall_C NativeClass:/Script/Engine.Actor Name:BP_CubeWall_C_UAID_047C16053364E3CF01_1203224705 Label:BP_CubeWall5 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [133]
+ |   |   |   |- Guid:D453127F4BEF57C4863879BCB37933A4 BaseClass:/Game/Personal/Blueprint_Mattia/BP_CubeWall.BP_CubeWall_C NativeClass:/Script/Engine.Actor Name:BP_CubeWall_C_UAID_047C160533646DD101_1682566062 Label:BP_CubeWall10 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [134]
+ |   |   |   |- Guid:D89CF43B4FD242F122FC91AE905AF35B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1703560297 Label:SM_structures_pillar_15 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [135]
+ |   |   |   |- Guid:D8E7CE324E602E5566E67F9076FC4A8C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1335490270 Label:modular_pipes_blocker3 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [136]
+ |   |   |   |- Guid:D92982AD438E53DF1D8447AC80C3AA83 BaseClass: NativeClass:/Script/PCG.PCGWorldActor Name:PCGWorldActor_UAID_047C1605336479BE01_1624835099 Label:PCGWorldActor SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [137]
+ |   |   |   |- Guid:DA82AE0447BC30B9545D12901E685C7F BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- [+] [138]
+ |   |   |   |- Guid:DF0372B9470C9A198D62AF86B227786C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1335489268 Label:modular_pipes_Pipe_68 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [139]
+ |   |   |   |- Guid:E07A1E1049491C656227B0BE07BCC694 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533641BD701_1868942963 Label:SM_structures_pillar_28 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [140]
+ |   |   |   |- Guid:E11BC0F845F62209A65A6F80A14E04F6 BaseClass:/Game/Personal/Blueprint_Mattia/OldStuff/BP_ColorChanger.BP_ColorChanger_C NativeClass:/Script/Engine.Actor Name:BP_ColorChanger_C_UAID_047C1610DC87FAB501_1303372295 Label:BP_ColorChanger SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [141]
+ |   |   |   |- Guid:E2B5110049FFE552F6CFEDAE4F316DB4 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646DD101_1688049067 Label:SM_structures_pillar_8 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [142]
+ |   |   |   |- Guid:E36F03E348583CDFADE8B4AA6F80766F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1689661293 Label:SM_structures_pillar_13 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [143]
+ |   |   |   |- Guid:E4AFEB6146B2DA285B10F1AD36A5B648 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646FD101_1253426507 Label:modular_pipes_Pipe_73 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [144]
+ |   |   |   |- Guid:E524CE684ABB002456DC499B28B8CCCB BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1272712265 Label:modular_pipes_Pipe_67 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [145]
+ |   |   |   |- Guid:E618A5DE4016553A75FDCCB57BEC8033 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646FD101_1263816510 Label:modular_pipes_blocker6 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [146]
+ |   |   |   |- Guid:E709A67F4D12AE78FD211BB6FF922BD1 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C1605336468D601_1362174474 Label:TestCube SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [147]
+ |   |   |   |- Guid:E7420475489363331E39F2A398BC5A82 BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_0 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- [+] [148]
+ |   |   |   |- Guid:E8C45E0B489AB2ACADC0BF8FDD99925C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C1610DC877DB301_1074967199 Label:SM_Cube4 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderGuid:6C02BB504B69D1F3D7A624B130C18E5B
+ |   |   |- [+] [149]
+ |   |   |   |- Guid:EBB248E2459231250B7A3A8867354138 BaseClass:/Game/Personal/Ciro/Blueprint/BP_MiniStuff/BP_PressColor.BP_PressColor_C NativeClass:/Script/Engine.Actor Name:BP_PressColor_C_UAID_047C160533646DD101_1900046079 Label:BP_PressColor4 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [150]
+ |   |   |   |- Guid:EBBF7E0D4FA6FCD27FB8D789BDBC4DC7 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_19 Label:SM_Cube12 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderGuid:D00C3F324D055BED943FA6B0235C7FA2
+ |   |   |- [+] [151]
+ |   |   |   |- Guid:EBD3B6E04055D5E04E07A5BE3B2AB58C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1545490286 Label:SM_metal_structures_pillar_7 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [152]
+ |   |   |   |- Guid:ECF0D45D4EE69CAAD81B6EA489A8F273 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C1610DC877BB301_1495819840 Label:SM_Cube15 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderGuid:D00C3F324D055BED943FA6B0235C7FA2
+ |   |   |- [+] [153]
+ |   |   |   |- Guid:EE0C53694F4347AB814F79A139BE945D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C1605336433D401_1687105009 Label:SM_structures_pillar_27 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [154]
+ |   |   |   |- Guid:F2253E324143F5CEF98E58B59C6CB38C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646DD101_1682568063 Label:SM_structures_pillar_6 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [155]
+ |   |   |   |- Guid:F27AA79F4E89331518A94F97D2AF73E0 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C1605336469D601_1199490653 Label:TestCube4 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [156]
+ |   |   |   |- Guid:F52B656C4EA603A3F01297BED47326FA BaseClass:/Game/Personal/Blueprint_Mattia/BP_Gates/BPC_MetalDoor.BPC_MetalDoor_C NativeClass:/Script/Engine.Actor Name:BPC_MetalDoor_C_UAID_047C1605336433D401_1687104008 Label:BPC_MetalDoor8 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [157]
+ |   |   |   |- Guid:F6D2AE954C2C6413AB3341916E4A5202 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533647BBE01_1251029457 Label:Cube SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [158]
+ |   |   |   |- Guid:F71033F64A9CA36F9CA261B001ACE968 BaseClass:/Game/Personal/Blueprint_Mattia/BP_Switches/BP_SteelPressurePlate.BP_SteelPressurePlate_C NativeClass:/Script/Engine.Actor Name:BPC_SteelPressurePlate_C_UAID_047C160533646DD101_2137114081 Label:BPC_SteelPressurePlate2 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [159]
+ |   |   |   |- Guid:F77A2CE946F4CE3EF0901485097C9499 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646DD101_1666980060 Label:SM_structures_pillar_5 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [160]
+ |   |   |   |- Guid:FA3DE23441409DF8BA3277B65A52F375 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646ED101_1272713266 Label:modular_pipes_blocker2 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [161]
+ |   |   |   |- Guid:FE37FB1B4BF821FEF3C6B8A2D86D21AB BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_0 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- [+] [162]
+ |   |   |   |- Guid:FF58EDE84665A21212EACBBCB9C9475C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C160533646DD101_1506328054 Label:SM_structures_pillar_3 SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/Personal/TestMap/FirstPersonMap
+----------------------------------------------------------------------------------------------------------------
+FirstPersonMap - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of FirstPersonMap Persistent Level
+ |- Always loaded Actor Count: 190 
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.AbstractNavData-Default
+ |- Actor Package: /Game/Personal/TestMap/FirstPersonMap
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.B10_GEN_VARIABLE_BP_TestNum_C_CAT_UAID_047C1610DC87A8D701_1287372122
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/1/A3/BPQRS1YU99J7L8E8HMZ7FC
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.B11_GEN_VARIABLE_BP_TestNum_C_CAT_UAID_047C1610DC87A8D701_1287372121
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/1/A3/BPQRS1YU99J7L8E8HMZ7FC
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_CheckPoint_C_UAID_047C1605336407D201_1197103151
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/5/OP/KKC81S8TB1JWCQNS98QVFP
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_ColorChanger_C_UAID_047C160533645CD301_2099642168
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/C/H5/FB6HOTT32HTEZOB0BCXP7Y
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_ColorChanger_C_UAID_047C16053364FCD301_1578598327
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/E/4B/ORQPTM5D8SO706YYWJ1ODL
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_ColorChanger_C_UAID_047C16053364FCD301_1580549328
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/D/QH/URF0D3ZYZJ4O95M4CXATER
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_ColorChanger_C_UAID_047C16053364FCD301_1582732329
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/C/DD/RAMHG2N3XE9HLXVPD3LE74
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_ColorChanger_C_UAID_047C1610DC87FAB501_1303372295
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/C/M4/8LZ0W09ZLMM8TOJDWOQFHC
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_ColorChanger_C_UAID_047C1610DC87FAB501_1306481296
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/D/TL/R94P1LVPS5C5KBM8NF59E9
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_ColorChanger_C_UAID_047C1610DC87FAB501_1308954297
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/2/0D/MIOBFX949SKRA7T8124VDT
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_CubeRespawnButton_C_UAID_047C160533641BD701_1899255965
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/4/GK/F0UVR9ZAS74CEQOP8NH1O2
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_CubeRespawnButton_C_UAID_047C160533641BD701_1902329967
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/A/3J/9KJ3B0MCJMFJLV3WNL8XCG
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_CubeRespawnButton_C_UAID_047C160533641BD701_1905483969
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/1/66/MVF7O2JAEB9ZUZZHQE6YI4
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_CubeRespawnButton_C_UAID_047C160533641BD701_1908287971
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/5/D8/CCU9PAL17KA8FB2IMTWDFJ
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_CubeRespawnButton_C_UAID_047C1605336472D601_1768790221
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/4/P1/DY5D2WMBNUVNO187CTLTUK
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_CubeRespawnButton_C_UAID_047C1605336472D601_1781470223
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/9/LB/FOJ4ENI53YVY61FT7E4BC4
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_CubeWall_C_UAID_047C160533646DD101_1434257048
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/C/8L/XNPIOXVE61XZM4K7NZCL5O
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_CubeWall_C_UAID_047C160533646DD101_1666977058
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/1/76/V6M5XKJZ2RX94UY6PNZY1M
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_CubeWall_C_UAID_047C160533646DD101_1682566062
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/D/9F/3KES86IU8DO76K3YOGQNI5
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_CubeWall_C_UAID_047C160533646DD101_1688047066
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/0/QL/7D3WBON15AO8JL8BKOMQQW
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_CubeWall_C_UAID_047C160533646FD101_1147818497
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/C/93/D7CH0638L9DYR8NYNZSFCV
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_CubeWall_C_UAID_047C16053364E3CF01_1203224705
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/3/K3/I6J5CX6S37SDM2B4FVI16S
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_CubeWall_C_UAID_047C16053364E3CF01_1226018707
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/7/RH/HSCQMLMNKTK4UK3KCO1KV2
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_CubeWall_C_UAID_047C16053364E3CF01_1689861709
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/B/PP/6GEJMYBTJWK3PLCDOMREZA
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_CubeWall_C_UAID_047C1610DC870AB601_1672654117
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/7/28/M892B8G91Q6F4N92FD7FFY
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_DeathZone_C_UAID_047C160533646FD101_2144786515
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/4/JF/8XPO5VOTSP14XBRDZQNESE
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_decal1_GEN_VARIABLE_BP_decal_C_CAT_UAID_047C1610DC87A8D701_1287371119
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/5/OP/KKC81S8TB1JWCQNS98QVFP
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_decal_GEN_VARIABLE_BP_decal_C_CAT_UAID_047C1610DC87A8D701_1287370118
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/5/OP/KKC81S8TB1JWCQNS98QVFP
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_decal_GEN_VARIABLE_BP_decal_C_CAT_UAID_047C1610DC87A8D701_1287371120
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/5/OP/KKC81S8TB1JWCQNS98QVFP
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Numpad_C_UAID_047C1605336433D401_1697539011
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/1/A3/BPQRS1YU99J7L8E8HMZ7FC
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_PhysicCubeChild1_C_UAID_047C160533640FD701_1440171857
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/D/ZC/WET98VR1S7GYPHVV2KW5HF
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_PhysicCubeChild1_C_UAID_047C160533645CD301_1899795167
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/7/KI/JTZ9HDTW3OD4NB83Z989YK
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_PhysicCubeChild1_C_UAID_047C1605336481D301_1918040679
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/D/3N/65G0AIROK9BUY6NSLDUKEW
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_PhysicCubeChild1_C_UAID_047C1605336481D301_1930068680
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/4/U2/1LBWIYAZOC4V3HECJNT5UU
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_PhysicCubeChild1_C_UAID_047C1605336481D301_1946214681
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/0/OP/GMANDW8569UTFL34TAUELL
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_PhysicCubeChild1_C_UAID_047C1605336481D301_1956965682
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/1/EU/DPDKFF08KQLGDE084LXE03
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_PressColor_C_UAID_047C160533640FD701_1440164855
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/B/F2/D5REU6WNQRV7B5TDBAL39Q
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_PressColor_C_UAID_047C160533646DD101_1785594073
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/A/KD/49JW76H71M3COE9GZSUNZ0
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_PressColor_C_UAID_047C160533646DD101_1883852075
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/3/8V/0LML110KIU4J7W9GN5FKG1
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_PressColor_C_UAID_047C160533646DD101_1894759077
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/8/EZ/2NMU7M8F280X98E0IWAZQD
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_PressColor_C_UAID_047C160533646DD101_1900046079
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/9/ON/MYP65AMXHOAKQSAG2XCPV1
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_PressColor_C_UAID_047C160533646DD101_2116428080
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/4/8R/9XR94PO8HXEO35PU9NE3JZ
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_PressColor_C_UAID_047C160533646ED101_1477109281
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/C/QH/1ASQ2B0UG178RX7HB3T80R
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_PressColor_C_UAID_047C160533646ED101_1600955289
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/1/L8/WXB64YTAJ4LZH8EV598BQ0
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_ProceduralRoom_C_UAID_047C16053364C6C001_1990128765
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/D/RU/0AQ2J1MHWOP6JJJETIZKC8
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_SteelPressurePlate_C_UAID_047C1605336457D301_2147070287
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/4/75/CS0PE24EJFNARWYREUQOQ9
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_TestNum1_GEN_VARIABLE_BP_TestNum_C_CAT_UAID_047C1610DC87A8D701_1287374132
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/1/A3/BPQRS1YU99J7L8E8HMZ7FC
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_TestNum2_GEN_VARIABLE_BP_TestNum_C_CAT_UAID_047C1610DC87A8D701_1287374130
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/1/A3/BPQRS1YU99J7L8E8HMZ7FC
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_TestNum3_GEN_VARIABLE_BP_TestNum_C_CAT_UAID_047C1610DC87A8D701_1287372124
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/1/A3/BPQRS1YU99J7L8E8HMZ7FC
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_TestNum4_GEN_VARIABLE_BP_TestNum_C_CAT_UAID_047C1610DC87A8D701_1287373125
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/1/A3/BPQRS1YU99J7L8E8HMZ7FC
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_TestNum5_GEN_VARIABLE_BP_TestNum_C_CAT_UAID_047C1610DC87A8D701_1287373126
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/1/A3/BPQRS1YU99J7L8E8HMZ7FC
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_TestNum6_GEN_VARIABLE_BP_TestNum_C_CAT_UAID_047C1610DC87A8D701_1287373127
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/1/A3/BPQRS1YU99J7L8E8HMZ7FC
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_TestNum7_GEN_VARIABLE_BP_TestNum_C_CAT_UAID_047C1610DC87A8D701_1287373128
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/1/A3/BPQRS1YU99J7L8E8HMZ7FC
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_TestNum8_GEN_VARIABLE_BP_TestNum_C_CAT_UAID_047C1610DC87A8D701_1287374129
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/1/A3/BPQRS1YU99J7L8E8HMZ7FC
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_TestNum9_GEN_VARIABLE_BP_TestNum_C_CAT_UAID_047C1610DC87A8D701_1287372123
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/1/A3/BPQRS1YU99J7L8E8HMZ7FC
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_TestNum_GEN_VARIABLE_BP_TestNum_C_CAT_UAID_047C1610DC87A8D701_1287374131
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/1/A3/BPQRS1YU99J7L8E8HMZ7FC
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_Button_C_UAID_047C160533646ED101_1674554290
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/B/9V/VJE8M875EDI6HGCN00DRMG
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_Button_C_UAID_047C160533646ED101_1768292299
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/9/4Q/VCKV3L081AB6CGDZJTGYD8
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_MetalDoor_C_UAID_047C1605336433D401_1687104008
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/A/47/GY7W4T2HHJZ9H4LXXW3UWT
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_MetalDoor_C_UAID_047C160533646ED101_1507782283
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/E/RU/21TAN46VBJD3ANFYGMI2SB
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_MetalDoor_C_UAID_047C160533646ED101_1689658291
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/B/NQ/RQCW0U06B6QUBF5XWSTNFZ
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_MetalDoor_C_UAID_047C160533646ED101_1703558295
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/3/IH/7CAGWE41XBNDA0X8BC2AV5
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_MetalDoor_C_UAID_047C160533646ED101_1865619303
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/3/CL/TX3RHUF1RV6PD2KKFQLMGG
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_MetalDoor_C_UAID_047C160533646ED101_1956934308
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/1/8L/MC9SC4T70ACTVAA0R4ZPMF
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_MetalDoor_C_UAID_047C160533646ED101_2028745316
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/5/W8/JYQPEC3FH1ZUB0BOL6LWOH
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_SteelPressurePlate_C_UAID_047C160533646DD101_2137114081
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/A/X7/NVXMT3QLABMMS44QKVRQX8
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_SteelPressurePlate_C_UAID_047C1610DC870ECC01_1652350064
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/D/69/53T9UHYZRC66PXQ9X8XOFW
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_0
+ |- Actor Package: /Game/Personal/TestMap/FirstPersonMap
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.CameraActor_UAID_047C1610DC8757B701_1925878725
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/A/RN/8ZZDTO3Q79CBR2EOEJNBDB
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.DefaultPhysicsVolume_0
+ |- Actor Package: /Game/Personal/TestMap/FirstPersonMap
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.DirectionalLight_1
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/0/WB/V4ALNTJYOVWM8BU452CKV5
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.ExponentialHeightFog_0
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/0/CL/381LM03PFI8AF9NED1SEV2
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap_C_0
+ |- Actor Package: /Game/Personal/TestMap/FirstPersonMap
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.GameplayDebuggerPlayerManager_0
+ |- Actor Package: /Game/Personal/TestMap/FirstPersonMap
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.LevelSequenceActor_UAID_047C1610DC8757B701_1727560723
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/C/2R/ZN4XSLWDQL5NRPGKKGOLQ2
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.PCGWorldActor_UAID_047C1605336479BE01_1624835099
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/6/KN/OQQH5XE6JRIUQYOXUXDU83
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.PCGWorldActor_UAID_047C1610DC8750C101_2014555048
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/B/C5/7IKMVD1QDHU4Y9U9I9KJMS
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.PostProcessVolume_0
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/E/MX/R1GV431P5FDO08OFULRA01
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_UAID_047C1605336417D701_1387044314
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/B/F8/Z1HTON986E7SDGSNW5EFTY
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_UAID_047C1605336417D701_1396916315
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/B/7W/SU4B362FYC0WZLAO5UUNOA
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_UAID_047C1605336417D701_1397980316
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/C/RP/Q99L18KCHBHSIVHP1LRYVZ
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_UAID_047C1605336417D701_1402982317
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/8/OT/QDBJXGHLTLKNBPKLUB239Q
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_UAID_047C1605336417D701_1404837318
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/B/AX/WHL35EICBI0YF0A7303TLN
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_UAID_047C1605336467D601_2024109297
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/8/US/O8RKHQVVSYRAD2GYKQEJ7M
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_UAID_047C1610DC873CB901_1927164081
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/7/WP/BKUC96VM5U1QHX1THRFJMF
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.SkyAtmosphere_0
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/C/VO/VMN4G7K3NKKV6F8HTPHHDB
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.SkyLight_0
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/6/0Z/5RQIHCZ9W3UXRGL4LTLQAK
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_0
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_3
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/3/AI/0XWE3RNM2XQC0ST1KXG02O
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_10
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/A/XJ/HL558UUAGCS9HVVOI0S7PX
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_12
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/1/63/MG6FOV6QQX2CAZCGF7O9MM
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_17
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/6/HC/FI3CQDKJY4J00D2B21FYQZ
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_18
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/9/6K/53TOYTOLDEUBMS5SLUFP3V
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_19
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/9/JW/IY5R6I5N0YWU9LYWKXFXH9
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_41
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/8/80/RCXALNT3NG94XMV0V6D4XE
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C1605336417D701_1243952312
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/3/3J/R7FCG00XHBQXIJFY7U7S57
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C1605336417D701_1325144313
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/9/FW/6S4ZBSOWS1YT9BZ1E18T9R
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533641BD701_1868942963
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/4/DO/ITTC5PV6WWJ1N28E94Q5H0
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533641BD701_1899257966
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/A/YJ/IVOFVRY9AXATQSTOIMXC6D
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533641BD701_1902331968
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/0/1M/PHOOTAPE4HDUH8F4Q1ZBY6
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533641BD701_1905485970
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/7/4S/I7CQGVE7VH1B32K769G9NW
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533641BD701_1908289972
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/7/RS/ULZZ7ZCCGSF8XSX0PZ111M
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C1605336433D401_1687103007
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/7/PR/GTTF1SQNECQ2ZME9PC6QQB
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C1605336433D401_1687105009
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/4/2A/183ZJH1LKN3XAN3DN4GFXF
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C1605336433D401_1687106010
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/E/NQ/1JSM13W27D79A6GL3GND7B
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C1605336468D601_1362174474
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/D/92/AF8XEC02PZF0MWCR1PGFEY
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C1605336469D601_1191157652
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/A/IS/JMVPDD1CV59GTD3HKHCB5U
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C1605336469D601_1199490653
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/C/ER/QSMVZWB7F7LOSXYG9RLQQ0
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C1605336469D601_1221247654
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/D/U1/36EKHUKTSIT6STA6DNXMNZ
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C1605336469D601_1226545655
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/9/IA/I8A4AJAE9UL2TQX2VKKDPK
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533646DD101_1497483053
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/6/6F/POV7DFMEFE8Y46W45HBLCR
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533646DD101_1506328054
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/3/YY/5WNOEW2ZFYZG6J90L5B7NT
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533646DD101_1627016057
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/0/OA/GN11UH08HZS4RZWK7NLSUE
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533646DD101_1666979059
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/5/9W/XZMKAHRU9KK7F6Q2M0H8VT
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533646DD101_1666980060
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/E/MM/K81T4GGR9D56UGK8EIE6LY
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533646DD101_1666981061
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/D/YA/0F26N1Z5MSHHF8E2ZR5UQM
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533646DD101_1682568063
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/E/T8/8JL1UIA5F6EXJ14SQ41JUB
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533646DD101_1682569064
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/7/6M/KWYKQ2NL5EPTSJD2KBRA2U
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533646DD101_1682569065
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/A/T7/K1GP9EEO35QXLA17E4H2TS
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533646DD101_1688049067
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/1/26/8V88YIJV2IOPTZAX919W5S
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533646DD101_1688049068
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/9/GA/CVVMG2OCCP9UNI9S4XO1CQ
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533646DD101_1688050069
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/C/TO/934RR5ION88OX4NU9944O4
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533646ED101_1103240258
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/C/PN/7QRTSYZ7RWR1RB3W000VRS
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533646ED101_1125993259
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/2/2Y/J8YOIZ3AT7MAMLEWF598KP
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533646ED101_1163471260
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/2/2A/NIEYBU02O9CTXAFUYT6UTR
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533646ED101_1197277261
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/5/LP/R1BOSAPJBKFPAP86FWV1KP
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533646ED101_1245560262
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/A/LE/2JBF51WOX5N11ZPJDEIWAH
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533646ED101_1272710263
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/2/9X/6LUWIL2K45KUM1WEQIMK1K
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533646ED101_1272712264
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/B/4T/0RN7Q0SMF5T44W4K7TERXP
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533646ED101_1272712265
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/7/9F/Y30O6BNC0ZB3XRS4QVW8HY
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533646ED101_1272713266
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/7/VI/1XOV19FXW6Q0HIG3U4LNCG
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533646ED101_1335487267
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/9/Q0/WMK6BCS82ET9IULSSKR0HM
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533646ED101_1335489268
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/A/BB/77EMLE1V68WBDH5SSFEDBP
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533646ED101_1335490269
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/2/FA/6R7DXK2IEM3GABIDUYKQ9G
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533646ED101_1335490270
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/4/3F/2QEGV3R4864M459DEMGK1H
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533646ED101_1374467276
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/E/M9/J63XCU7UXTTAPA145XZ08P
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533646ED101_1374469277
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/7/VS/5SDKFEVFN01WT685LLX0LS
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533646ED101_1374470278
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/1/9U/0ZWHHYL4GD99TP0RCGQTVR
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533646ED101_1374470279
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/2/U6/DH0EBA5CR2J5ZPKNX77F8D
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533646ED101_1525699284
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/C/QH/GVGKU83XQEPLKLFMKUS6RT
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533646ED101_1525700285
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/3/LZ/XT7TBJR16EI9537HGP8IWY
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533646ED101_1545490286
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/8/ZS/EF5KQKBI6XGMV5IJ8GF0KR
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533646ED101_1568647287
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/D/ID/YJR7AQA6UY8UENX1T4Y7H6
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533646ED101_1689660292
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/4/XE/TAQGNABB6VRBTT0AB9ZTVP
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533646ED101_1689661293
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/1/NO/23FNKE8OKWC97MA5FJ16HR
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533646ED101_1689661294
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/B/DJ/9Y2Q7QM1H4QZPET48E9H8E
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533646ED101_1703559296
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/0/FS/21H5KJTYCXXEVPWE0EU91T
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533646ED101_1703560297
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/9/35/D6SJIJLQY69OBNFVJV5Q3A
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533646ED101_1703561298
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/B/KS/9Y2O1URQUYFWUXQ75RJR1W
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533646ED101_1865621304
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/0/1H/SP7WGQJ3KMV6NOCSJMBGTA
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533646ED101_1865622305
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/9/68/K7BDB20WTBQAPJDVQUWQUP
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533646ED101_1865622306
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/E/T3/YA8JK6JAF6S39TJKU1UTGO
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533646ED101_1956935309
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/D/91/B7LRN9J2MMTA48FGGP5FUF
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533646ED101_1956935310
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/7/15/EJAUXZS3VJEW3EUOVINNGN
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533646ED101_1956936311
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/1/U0/J22R56M5E8AMDKEQZ8WNC4
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533646ED101_2028747317
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/5/W2/PMPUPSFY6MJEW1IOYEC9U2
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533646ED101_2028748318
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/C/YD/XMHLVTZPAGOKKV1AVQH3IA
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533646ED101_2028749319
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/0/0Y/5AHUWS59NU71ZREQYFOVTZ
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533646FD101_1147819498
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/6/VT/BMWSFWM169ST0YZ965V5DQ
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533646FD101_1147820499
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/B/UY/UC83RXXBFFGINR516JLO9N
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533646FD101_1147821500
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/3/E9/F411NOCOTL7M55E91V8BMB
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533646FD101_1186000502
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/2/O5/AJTDIB5DNBIC4KFOMM02CX
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533646FD101_1186001503
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/3/4P/PP8UPPWRP3KWOFX2KN4LC2
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533646FD101_1186002504
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/D/6F/GXWGF5X9S7AXITCXEGD4IN
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533646FD101_1253424506
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/C/7C/DCY4Y77Z4DXSRIBR93SSBC
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533646FD101_1253426507
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/B/SF/GZMTDOX43O570YUWXHK4VP
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533646FD101_1253427508
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/1/4X/JZGY5TJ17J99A5HGMI5ODG
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533646FD101_1253428509
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/2/TD/PF3P52NN1L8GO0GTOR2VBC
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533646FD101_1263816510
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/7/OW/9MLIO1Q8NMNX0PCCV6PB38
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C160533647BBE01_1251029457
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/E/SW/XR74UWPTMRKO8HM15F6P06
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C1605336497CD01_1890433246
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/0/DJ/P720XQJUPHFJC6VI6AXTDP
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C16053364C6C001_1953037762
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/2/47/AE1FS1RC2EOIXA5MS6GOYA
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C16053364C6C001_1957108763
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/6/3Y/QHZ6H1WDHHRNAJ1QVZEKU4
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C1610DC870AB601_1178002111
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/D/8J/SRDG36QTSAWMTGK2JAID6M
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C1610DC8746B301_1283088504
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/1/CL/T74ZWXL1ZDXBKLH61EI7WD
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C1610DC8746B301_1300344505
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/2/EB/WHAMBH2U5IF6VP1KD3ZTCU
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C1610DC8748B301_2004574865
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/5/RG/8WY6LMZLJOS05RBE2XHHY9
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C1610DC877BB301_1495817837
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/0/KQ/ZCXQWZC7E038OZQAAXW3RG
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C1610DC877BB301_1495818838
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/7/H3/8PQ9DNOB45OLBMBJFRE4JS
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C1610DC877BB301_1495819839
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/9/FK/O3TPS7AH4OW00X9JJMXTW1
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C1610DC877BB301_1495819840
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/9/SY/ZCI4XJDOJZBP5100SOAL01
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C1610DC877BB301_1528733841
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/1/M9/A36VXXSOGCE0M2BDU354XL
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C1610DC877DB301_1074967199
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/1/UU/X0C4YCMXLLQWYM7UJEYV8U
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C1610DC87DDB501_1753404204
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/E/AE/5F5RH2IL1W05JB1W2SLCC4
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_047C1610DC87DDB501_1757575205
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/7/MQ/9N3TJCCILSHGBQ9LSA3E57
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.VolumetricCloud_0
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/0/GO/I8WEFD3RY9V3NVQLSU6QM4
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/D/0W/E1FKEGVKGOLM7HGLQPCIPO
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.WorldInfo_0
+ |- Actor Package: /Game/Personal/TestMap/FirstPersonMap
+ |- Actor Path: /Game/Personal/TestMap/FirstPersonMap.FirstPersonMap:PersistentLevel.WorldPartitionMiniMap_0
+ |- Actor Package: /Game/__ExternalActors__/Personal/TestMap/FirstPersonMap/4/CR/SRVPLA8UNZ8XIIP0E036DI
+
+----------------------------------------------------------------------------------------------------------------
+FirstPersonMap - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+            Origin: X=0.000 Y=0.000 Z=0.000
+
+[+] Grid Levels: 1
+ |- Level  0: Cell Count    0 | Cell Size   12800 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+
