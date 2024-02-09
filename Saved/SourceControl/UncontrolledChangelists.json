@@ -1,0 +1,44 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/matti/Desktop/LastTest/Content/__ExternalActors__/Personal/TestMap/FirstPersonMap/C/82/RQQ47XDDRINDYBWDTW22OR.uasset",
+				"C:/Users/matti/Desktop/LastTest/Content/__ExternalActors__/Personal/TestMap/FirstPersonMap/B/DD/654T6CAPVSXAN1LXEX71EI.uasset",
+				"C:/Users/matti/Desktop/LastTest/Content/__ExternalActors__/Personal/TestMap/FirstPersonMap/B/51/6JKB4DNGJP09QUHY23FHRV.uasset",
+				"C:/Users/matti/Desktop/LastTest/Content/__ExternalActors__/Personal/TestMap/FirstPersonMap/1/2J/R4MRTH8FEAO7ML1BCJFIZ2.uasset",
+				"C:/Users/matti/Desktop/LastTest/Content/__ExternalActors__/Personal/TestMap/FirstPersonMap/0/7P/QZX5AESKLO855EVPT5JU20.uasset",
+				"C:/Users/matti/Desktop/LastTest/Content/__ExternalActors__/Personal/TestMap/FirstPersonMap/1/XG/ZBQ0ATKQT5QAKRHFEH61A4.uasset",
+				"C:/Users/matti/Desktop/LastTest/Content/__ExternalActors__/Personal/TestMap/FirstPersonMap/B/61/O0FAF4ZQWV7U5ERHGXQOE8.uasset",
+				"C:/Users/matti/Desktop/LastTest/Content/__ExternalActors__/Personal/TestMap/FirstPersonMap/6/XU/4WCLC6CFG5Y7227OZ5BNBL.uasset",
+				"C:/Users/matti/Desktop/LastTest/Content/Personal/Ciro/Asset/SM_CurrentActor/BarbedWire/MT_FiloSpinato.uasset",
+				"C:/Users/matti/Desktop/LastTest/Content/Personal/Ciro/Asset/SM_CurrentActor/BarbedWire/SM_FiloSpinato.uasset",
+				"C:/Users/matti/Desktop/LastTest/Content/Personal/Ciro/Asset/SM_CurrentActor/BarbedWire/lambert2.uasset",
+				"C:/Users/matti/Desktop/LastTest/Content/__ExternalActors__/Personal/TestMap/FirstPersonMap/5/OP/KKC81S8TB1JWCQNS98QVFP.uasset",
+				"C:/Users/matti/Desktop/LastTest/Content/__ExternalActors__/Personal/TestMap/FirstPersonMap/1/A3/BPQRS1YU99J7L8E8HMZ7FC.uasset",
+				"C:/Users/matti/Desktop/LastTest/Content/__ExternalActors__/Personal/TestMap/FirstPersonMap/E/MX/R1GV431P5FDO08OFULRA01.uasset",
+				"C:/Users/matti/Desktop/LastTest/Content/Personal/TestMap/FirstPersonMap.umap",
+				"C:/Users/matti/Desktop/LastTest/Content/Personal/Blueprint_Mattia/BP_Weapon.uasset",
+				"C:/Users/matti/Desktop/LastTest/Content/FPWeapon/Mesh/SK_FPGun.uasset",
+				"C:/Users/matti/Desktop/LastTest/Content/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset",
+				"C:/Users/matti/Desktop/LastTest/Content/FPWeapon/Mesh/SK_FPGun_Physics.uasset",
+				"C:/Users/matti/Desktop/LastTest/Content/FPWeapon/Materials/MI_RiffleBaseShot.uasset",
+				"C:/Users/matti/Desktop/LastTest/Content/FPWeapon/Materials/M_FPGun.uasset",
+				"C:/Users/matti/Desktop/LastTest/Content/FPWeapon/Textures/T_FPGun_N.uasset",
+				"C:/Users/matti/Desktop/LastTest/Content/FPWeapon/Textures/T_FPGun_M.uasset",
+				"C:/Users/matti/Desktop/LastTest/Content/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset",
+				"C:/Users/matti/Desktop/LastTest/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset",
+				"C:/Users/matti/Desktop/LastTest/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset",
+				"C:/Users/matti/Desktop/LastTest/Content/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset",
+				"C:/Users/matti/Desktop/LastTest/Content/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset",
+				"C:/Users/matti/Desktop/LastTest/Content/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset",
+				"C:/Users/matti/Desktop/LastTest/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset",
+				"C:/Users/matti/Desktop/LastTest/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset",
+				"C:/Users/matti/Desktop/LastTest/Content/__ExternalActors__/Personal/TestMap/FirstPersonMap/6/KV/A7JX01MKVHB3ZI06ZOGGPV.uasset",
+				"C:/Users/matti/Desktop/LastTest/Content/__ExternalActors__/Personal/TestMap/FirstPersonMap/0/4M/JYD1FB4J2A16MM5IH3JOQ6.uasset"
+			]
+		}
+	]
+}
